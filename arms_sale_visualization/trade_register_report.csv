@@ -1,0 +1,770 @@
+Id,Supplier,Recipient,No. ordered,No. ordered data uncertain,Designation,Description,Status,Status data uncertain,Year of order,Year of order data uncertain,Year(s) of deliveries,No. delivered,Year(s) of delivery or no. delivered data uncertain,Recipient Involvement,Comment
+38204,Australia,India,5,,Thornycroft 26m,Patrol craft,New,,2010,Yes,2013 - 2013,1,Yes,Yes,For coast guard
+174,Australia,Indonesia,4,,C-130H Hercules,Transport aircraft,Refurbished,Yes,2013,,2013 - 2013,1,Yes,,Second-hand but modernized for AUD63 m before delivery; aid
+17349,Australia,Singapore,35,Yes,R-600,IFV turret,New,,2012,,2012 - 2013,35,Yes,,AUD25 m ($27 m) deal; for Terrex APC/IFV produced in Singapore
+18051,Australia,United States,9,,JHSV,Transport ship,New,,2009,,2013 - 2013,1,Yes,Yes,Part of $1.6 b 'JHSV' (Joint High Speed Vessel) programme; delivery 2013-2017
+30906,Austria,Poland,5,,DA20,Light aircraft,New,,2012,,2013 - 2013,5,Yes,,For training
+8069,Belarus,China,5,,Il-76M/Candid-B,Transport aircraft,SecondHand,,2011,Yes,2013 - 2013,5,Yes,,Second-hand; incl 2 Il-76MD and 3 Il-76TD version; ordered via Russia
+34171,Belarus,Sudan,12,Yes,Su-24/Fencer,Bomber aircraft,SecondHand,Yes,2012,,2013 - 2013,12,Yes,,Ex-Belarusian
+17414,Belgium,France,110,Yes,Arrows-300,AV turret,New,,2005,Yes,2008 - 2013,110,Yes,,For 110 VPC APC produced in France
+15869,Belgium,Saudi Arabia,84,,LCTS 90mm,AV turret,New,,2009,Yes,2011 - 2013,84,Yes,,For 84 Piranha (LAV-90 or LAV-AG) FSV from Canada
+26053,Belgium,United Kingdom,2,,BAe-146,Transport aircraft,SecondHand,,2012,,2013 - 2013,2,,,Second-hand; BAe-146-200QC version; UK designation BAE-146 C-3; for use in Afghanistan
+17233,Brazil,Angola,6,,EMB-314 Super Tucano,Trainer/combat ac,New,,2011,,2013 - 2013,6,Yes,,
+17230,Brazil,Mauritania,4,,EMB-314 Super Tucano,Trainer/combat ac,New,,2011,,2012 - 2013,4,Yes,,
+22212,Brazil,Unknown country,50,Yes,SMKB,Guided bomb,New,,2010,Yes,2013 - 2013,50,Yes,,Recipient is South American country (possibly Ecuador or Peru)
+1767,Bulgaria,Unknown country,3,Yes,L-39Z Albatros,Trainer/combat ac,SecondHand,,2011,Yes,2013 - 2013,3,Yes,,Ex-Bulgarian; L-39ZA version
+25277,Canada,Angola,6,Yes,PT-6,Turboprop,New,,2011,,2013 - 2013,6,Yes,,For 6 EMB-314 trainer/combat aircraft from Brazil
+25270,Canada,Botswana,5,Yes,PT-6,Turboprop,New,,2011,,2013 - 2013,5,Yes,,For 5 PC-7 trainer aircraft from Switzerland; PT-6A-25C version
+13191,Canada,Colombia,2,,PW-100,Turboprop/turboshaft,New,,2012,,2013 - 2013,2,,,For 1 C-295 transport aircraft from Spain
+13196,Canada,Colombia,2,,PW-100,Turboprop/turboshaft,New,,2012,,2013 - 2013,2,,,For 1 C-295 transport aircraft from Spain
+30905,Canada,Ecuador,12,,DA20,Light aircraft,New,,2011,,2012 - 2013,12,,,For training
+13195,Canada,Egypt,6,Yes,PW-100,Turboprop/turboshaft,New,,2012,,2013 - 2013,6,Yes,,For 3 C-295 transport aircraft from Spain
+25271,Canada,India,75,Yes,PT-6,Turboprop,New,,2012,,2013 - 2013,30,Yes,,For 75 PC-7 trainer aircraft from Switzerland
+13184,Canada,Indonesia,18,Yes,PW-100,Turboprop/turboshaft,New,,2012,,2012 - 2013,10,Yes,,For 9 C-295 transport aircraft from Spain
+13186,Canada,Kazakhstan,4,Yes,PW-100,Turboprop/turboshaft,New,,2012,,2013 - 2013,4,Yes,,For 2 C-295 transport aircraft from Spain
+13200,Canada,Laos,4,Yes,PW-100,Turboprop/turboshaft,New,,2012,Yes,2013 - 2013,4,Yes,,For 2 MA-600 transport aircraft from China
+25283,Canada,Mauritania,4,Yes,PT-6,Turboprop,New,,2011,,2012 - 2013,4,Yes,,For 4
+13187,Canada,Oman,16,Yes,PW-100,Turboprop/turboshaft,New,,2012,,2013 - 2013,4,Yes,,For 5 C-295 transport aircraft and 3 C-295MPA MP aircraft from Spain
+28814,Canada,Peru,12,,DHC-6 Twin Otter,Transport aircraft,New,,2010,,2011 - 2013,7,Yes,,$67 m deal; DHC-6-400 version; delivery 2011-2014
+25273,Canada,Poland,16,Yes,PT-6,Turboprop,New,,2011,,2012 - 2013,16,Yes,,For modernization of 16 PZL-130 trainer aircraft to PZL-130TC-2
+13188,Canada,Poland,10,Yes,PW-100,Turboprop/turboshaft,New,,2012,,2012 - 2013,10,,,For 5 C-295 transport aircraft from Spain; PW-127 version
+31815,Canada,Saudi Arabia,724,,Piranha,APC,New,,2009,,2011 - 2013,410,Yes,,"$2.2 b deal (part of $5.8 b deal); sold via USA; LAV version; incl LAV-25 IFV, LAV-AG FSV, LAV-AT anti-tank, 120mm mortar caririer, ARV, command post and ambulance versions; for National Guard"
+25279,Canada,Saudi Arabia,55,Yes,PT-6,Turboprop,New,,2012,,2013 - 2013,2,Yes,,For 55 PC-21 trainer aircraft from Switzerland
+13155,Canada,Turkey,16,Yes,PW-100,Turboprop/turboshaft,New,,2005,,2013 - 2013,4,Yes,,PW-127M version; for 6 ATR-72MP ASW aircraft and 2 ATR-72 transport aircraft from Italy
+28809,Canada,United Arab Emirates,10,,DHC-6 Twin Otter,Transport aircraft,New,,2008,,2013 - 2013,1,Yes,,$65m deal; DHC-6-400 version; inc 4 Guardian-400 surveillance/MP version; bought and owned by UAE company incl for use by UAE government
+25267,Canada,United Arab Emirates,24,Yes,PT-6,Turboprop,New,,2010,,2010 - 2013,24,Yes,,For 24 AT-802U combat aircraft from USA
+37005,Canada,United States,292,,Piranha-3,APC,New,,2011,,2012 - 2013,292,Yes,Yes,LAV-3 (LAV-25/Stryker SDVH) version
+25229,Canada,United States,724,Yes,PT-6,Turboprop,New,,1996,,1999 - 2013,709,Yes,,For 724 PC-9 (T-6A) trainer aircraft from Switzerland; PT-6A-62 version
+28810,Canada,Viet Nam,6,,DHC-6 Twin Otter,Transport aircraft,New,,2010,,2012 - 2013,3,Yes,,DHC-6-400 version; incl for MP; delivery 2012-2014
+7378,China,Bangladesh,16,,F-7MG,Fighter aircraft,New,,2011,,2012 - 2013,16,Yes,,F-7BGI version
+26220,China,Bangladesh,300,Yes,Type-59G,Tank,New,Yes,2009,Yes,2010 - 2013,155,Yes,,Bangladeshi Type-59 and Type-69 tanks rebuilt to Type-59G in Bangladesh with kits from China
+34332,China,Bangladesh,44,,Type-90-2/MBT-2000,Tank,New,,2011,,2012 - 2013,44,Yes,,BDT12 b ($160 m) deal
+15797,China,Bangladesh,20,Yes,C-704,Anti-ship missile,New,,2011,Yes,2012 - 2013,20,Yes,,For 2 LPC-1 corvettes
+34885,China,Bangladesh,2,,LPC-1,Corvette,New,,2011,Yes,2013 - 2013,2,,,
+34895,China,Bangladesh,5,,CSOC-50m,Patrol craft,New,,2011,,2013 - 2013,5,Yes,Yes,
+34434,China,Benin,10,Yes,BF6,Diesel engine,New,,2012,Yes,2013 - 2013,10,Yes,,For 10 Casspir APC from South Africa; designation uncertain (reported as Chinese engine)
+32144,China,Cambodia,12,,AS365/AS565 Panther,Helicopter,New,,2011,,2013 - 2013,12,,,$195 m deal (financed by Chinese loan); incl 4 armed version
+32943,China,Egypt,18,,ASN-209,UAV,New,,2010,Yes,2012 - 2013,12,Yes,Yes,
+38218,China,Ethiopia,1,Yes,HQ-64,SAM system,New,,2012,Yes,2013 - 2013,1,Yes,,
+37092,China,Ethiopia,10,Yes,YW-531H/Type-85,APC,New,,2011,Yes,2013 - 2013,10,Yes,,Probably YW-534/Type-89 version
+4421,China,Ethiopia,75,Yes,PL-11/FD-60,BVRAAM,New,,2012,Yes,2013 - 2013,75,Yes,,For HQ-64 SAM system
+9430,China,Indonesia,8,Yes,TD-2000B,AD system,New,,2008,,2012 - 2013,8,Yes,,Part of $35 m deal
+29853,China,Indonesia,200,Yes,QW-3,Portable SAM,New,,2008,,2012 - 2013,200,Yes,,For TD-2000B AD system
+38212,China,Indonesia,2,Yes,SR-74,Air search radar,New,,2008,Yes,2012 - 2013,2,Yes,,For use with TD-2000B AD systems
+13515,China,Indonesia,24,Yes,Type-360 Seagull,Air search radar,New,,2009,Yes,2011 - 2013,4,Yes,,For 24 KCR-40 FAC produced in Indonesia; designation and supplier uncertain
+37650,China,Laos,2,,MA-60,Transport aircraft,New,,2012,Yes,2013 - 2013,2,,,MA-600 version
+23080,China,Myanmar,50,Yes,K-8 Karakorum-8,Trainer/combat ac,New,,2009,,2011 - 2013,50,Yes,,No. could be 60 or 72; assembled in Myanmar
+26354,China,Myanmar,100,Yes,WMA-301 Assaulter,AFSV,New,,2010,Yes,2012 - 2013,50,Yes,,
+37049,China,Myanmar,76,Yes,WZ-551/Type-92,IFV,New,,2011,Yes,2012 - 2013,76,Yes,,
+5946,China,Myanmar,50,Yes,Type-90-2/MBT-2000,Tank,New,,2009,,2012 - 2013,50,Yes,,
+37455,China,Pakistan,4,,ZDK-03,AEW&C aircraft,New,,2008,,2011 - 2013,3,Yes,,$278 m deal
+9478,China,Pakistan,50,Yes,JF-17 Thunder/FC-1,FGA aircraft,New,,1999,,2007 - 2013,50,Yes,Yes,JF-17 Block-1 version; developed for Pakistan; incl production of components and assembly in Pakistan; incl 8 mainly for testing and first 42 production version ordered 2009 for $800 m
+34329,China,Pakistan,500,Yes,Type-90-2/MBT-2000,Tank,New,,1998,Yes,2001 - 2013,328,Yes,Yes,MBT-2000 (Al Khalid or P-90) version
+27088,China,Pakistan,100,Yes,C-802/CSS-N-8,Anti-ship missile,New,,2008,Yes,2012 - 2013,20,Yes,,For JF-17 combat aircraft
+27089,China,Pakistan,30,Yes,C-802/CSS-N-8,Anti-ship missile,New,,2010,Yes,2012 - 2013,20,Yes,,For Azmat FAC
+36184,China,Pakistan,50,Yes,CM-400AKG,Anti-ship missile,New,,2010,Yes,2012 - 2013,20,Yes,,For JF-17 combat aircraft
+36049,China,Pakistan,,,Red Arrow-8,Anti-tank missile,New,,1989,,1990 - 2013,21850,Yes,Yes,Pakistani designation Baktar Shikan
+19798,China,Pakistan,800,Yes,PL-12/SD-10,BVRAAM,New,,2006,Yes,2010 - 2013,200,Yes,,For JF-17 and possibly modernized Mirage-3/5 combat aircraft
+27376,China,Pakistan,750,Yes,LS-3,Guided bomb,New,,2008,Yes,2010 - 2013,275,Yes,,For JF-17 combat aircraft
+36407,China,Pakistan,1000,Yes,LS-6-500,Guided bomb,New,,2008,Yes,2010 - 2013,250,Yes,,For JF-17 combat aircraft
+33231,China,Pakistan,750,Yes,LT-2,Guided bomb,New,,2008,Yes,2010 - 2013,250,Yes,,For JF-17 combat aircraft
+7920,China,Pakistan,100,Yes,R-440 Crotale,SAM,New,,2005,Yes,2009 - 2013,100,Yes,,For Jiangwei (F-22P) frigates; HQ-7 (FM-80) version
+21542,China,Pakistan,1000,Yes,PL-5E,SRAAM,New,,2006,Yes,2009 - 2013,360,Yes,,For JF-17 combat aircraft; PL-5E-II version
+32000,China,Pakistan,200,Yes,WMD-7,Aircraft EO system,New,,2008,Yes,2009 - 2013,50,Yes,,For JF-17 combat aircraft
+37178,China,Pakistan,4,,F-22,Frigate,New,,2005,,2009 - 2013,4,,Yes,$500-750 m deal; F-22P version; incl 1 produced in Pakistan; Pakistani designation Zulfiquar
+7319,China,Sudan,,Yes,Type-63 107mm,Towed MRL,New,Yes,2000,Yes,2001 - 2013,450,Yes,Yes,Incl production in Sudan as TAKA-1
+3169,China,Tanzania,30,Yes,Type-59G,Tank,New,,2007,Yes,2011 - 2013,30,Yes,,Tanzanian Type-59 rebuilt to Type-59G
+28458,China,Thailand,18,Yes,WS-1 302mm,Self-propelled MRL,New,,2008,Yes,2011 - 2013,18,Yes,Yes,Thai designation DTi-1
+27086,China,Thailand,60,Yes,C-802/CSS-N-8,Anti-ship missile,New,,2007,Yes,2009 - 2013,52,Yes,,For modernized Chao Phraya frigates
+4007,China,Venezuela,8,,Y-8,Transport aircraft,New,,2011,,2012 - 2013,6,,,Y-8F-200W version; delivery 2012-2014
+37107,Czech Republic,Mexico,10,,Z-142/Z-242L,Trainer aircraft,New,,2013,,2013 - 2013,6,Yes,,MXN81 m ($6.3 m) deal; Z-242L version; delivery 2013-2014
+13562,Czech Republic,Poland,2,,Z-143L,Light aircraft,New,,2012,Yes,2013 - 2013,2,Yes,,For training; Z-143Lis version
+36525,Czech Republic,Slovakia,2,,L-410 Turbolet,Light transport ac,New,,2012,,2013 - 2013,2,,,EUR9.8 m deal; L-410UVP-20 version
+26629,Denmark,Brazil,3,,Scanter-4100,Air/sea search radar,New,,2011,,2012 - 2013,3,,,For 3 VT-90M OPV from UK
+26627,Denmark,Colombia,1,,SCANTER-2001,Sea search radar,New,,2011,Yes,2013 - 2013,1,,,For 2 OPV-80 OPV from FRG
+13494,Denmark,Netherlands,4,,Compact 76mm,Naval gun,SecondHand,,2007,Yes,2011 - 2013,4,Yes,,Ex-Danish; for 2 Holland OPV produced in Netherlands and 2 from Romania
+26620,Denmark,United Arab Emirates,6,,SCANTER-2001,Sea search radar,New,,2004,,2011 - 2013,4,Yes,,For 6 Baynunah corvettes from France
+4061,Finland,Colombia,4,,W-12,Diesel engine,New,,2011,Yes,2013 - 2013,2,,,For 2 OPV-80 OPV from FRG
+37926,Finland,Poland,332,,AMV,APC,New,,2003,,2004 - 2013,324,Yes,Yes,Part of PLN4.9 b ($1.45 b) 'Suhak' programme (incl $308 m for turrets from Italy; offsets 133% incl production of most in Poland); XC-360P version; incl command post and 32 reconnaissance version; Polish designation Rosomak
+38185,Finland,Poland,313,,AMV,IFV,New,,2003,,2004 - 2013,272,Yes,Yes,Part of PLN4.9 b ($1.45 b) 'Suhak' programme (incl $308 m for turrets from Italy; offsets 133% incl production of most in Poland); XC-360P version; incl 313 IFV and 32 reconnaissance version; Polish designation Rosomak
+4050,Finland,Portugal,4,,W-12,Diesel engine,New,,2002,Yes,2010 - 2013,4,,,For 2 NPO-2000 (Do Castelo) OPV produced in Portugal
+23390,Finland,Saudi Arabia,36,,NEMO 120mm,Mortar turret,New,,2011,Yes,2012 - 2013,36,Yes,,EUR100 m deal; for 36 Piranha (LAV-2) mortar carriers from Canada; delivery 2012-2013
+37927,Finland,Sweden,113,,AMV,APC,New,,2010,,2013 - 2013,70,Yes,Yes,"SEK2.5 b deal ($338 m; offsets 100% incl production of components in Sweden); incl 14 CP, 18 ambulance and 7 ARV version; option on 113 more; Swedish designation Ptb-360; delivery 2013-2014"
+23389,Finland,United Arab Emirates,6,,NEMO 120mm,Mortar turret,New,,2009,,2013 - 2013,3,Yes,,For modification of 6 Ghannatha transport craft to fire support craft
+28069,France,Albania,5,,AS-532 Cougar/AS-332,Helicopter,New,,2009,,2012 - 2013,5,Yes,,EUR79 m deal; AS-532AL version
+37157,France,Australia,34,,NH-90 TTH,Helicopter,New,,2006,,2011 - 2013,17,Yes,Yes,AUD2 b ($1.5 b) 'Project Air-9000 Phase-3' or 'Project Air-9000 Phase-4' (incl 10 year support; assembled in Australia); MRH-90 version; delivery 2011-2015
+34443,France,Australia,300,Yes,MU90 IMPACT,ASW torpedo,New,,2003,,2008 - 2013,120,Yes,Yes,EUR150 m 'Joint Project-2070 Djimindi Phase-3' (incl up to 35% of components produced in Australia)
+9606,France,Australia,17,,Vampyr,Air search system,New,,2005,,2011 - 2013,4,Yes,,For modernization of 8 MEKO-200 (Anzac) frigates
+35817,France,Australia,24,,FLASH,ASW sonar,New,,2011,,2013 - 2013,2,,,For 24 MH-60R ASW helicopters from USA; from US production line
+15632,France,Bangladesh,6,Yes,PA6,Diesel engine,New,,2011,Yes,2013 - 2013,2,,,For 2 LPC-1 corvettes from China; probably from Chinese production line
+37148,France,Belgium,4,,NH-90 TTH,Helicopter,New,,2007,,2012 - 2013,2,Yes,,Part of EUR300 m deal; incl for SAR; option on 2 more; delivery 2012-2014
+10198,France,Benin,4,,LH-10 Ellipse,Trainer aircraft,New,,2010,Yes,2011 - 2013,4,Yes,,For training and reconnaissance
+14475,France,Brazil,48,,EC-225/EC-725,Helicopter,New,,2008,,2010 - 2013,8,Yes,Yes,"EUR1.9 b deal; Brazilian designation H-36, HM-4 and UH-15; delivery 2010-2017"
+33162,France,Brazil,4,,P-400,Patrol craft,New,,2009,,2012 - 2013,2,Yes,Yes,NAPA-500 version; Brazilian designation Macae; delivery 2012-2014
+20120,France,Canada,2,,Ground Master-400,Air search radar,New,,2010,,2013 - 2013,1,Yes,,CAD56 m ($55 m) deal
+28075,France,Chile,1,,AS-532 Cougar/AS-332,Helicopter,New,,2012,,2013 - 2013,1,,,$25 m deal; AS-532 version
+20127,France,Chile,4,Yes,Ground Master-400,Air search radar,New,,2011,,2013 - 2013,1,Yes,,
+2087,France,China,,,Crotale,SAM system,New,,1978,Yes,1992 - 2013,44,Yes,Yes,"Chinese designation HQ-7, FM-80 and FM-90; possibly FM-80 and/or FM-90 produced in China are modified Chinese design"
+30027,France,China,,,SA-321 Super Frelon,Helicopter,New,,1981,Yes,2001 - 2013,50,Yes,Yes,"Chinese designation Z-8 (incl Z-8A, Z-8B, Z-8K, Z-8S and Z-8JH versions)"
+32113,France,China,,Yes,AS365/AS565 Panther,Helicopter,New,,1988,,1992 - 2013,357,Yes,Yes,Chinese designation Z-9A or Z-9A-100 Haitun and Z-9B/G; incl Z-9WZ anti-tank version
+31165,France,Ecuador,9,,AS-350/AS-550 Fennec,Light helicopter,New,,2010,,2011 - 2013,6,,,Incl 2 AS-350B2 and 7 AS-550C3 version; delivery 2011-2015
+10297,France,Egypt,3,,MRR-3D,Air search radar,New,,2006,Yes,2013 - 2013,1,Yes,,For 3 Ambassador-4 corvettes from USA; possibly from US production line
+20119,France,Estonia,2,,Ground Master-400,Air search radar,New,,2009,,2013 - 2013,1,,,EUR28 m deal (part of EUR200 m deal incl 12 for Finland); Ground Master-403 version; for 'BALTNET' air surveillance network; delivery 2013-2014
+37145,France,Finland,10,Yes,NH-90 TTH,Helicopter,New,,2001,,2008 - 2013,10,Yes,Yes,Part of $350 m deal (for 20 NH-90 from France and Italy; $520 m incl support; offsets incl assembly of 18)
+20123,France,Finland,12,,Ground Master-400,Air search radar,New,,2009,,2013 - 2013,4,Yes,,Part of EUR200 m deal (incl 2 more for Estonia); Ground Master-403 version; Finnish designation KEVA-2010; delivery 2013-2015
+20125,France,Germany,6,,Ground Master-400,Air search radar,New,,2010,,2013 - 2013,2,Yes,Yes,EUR100 m 'ARED' programme; delivery by 2015
+37151,France,Greece,20,,NH-90 TTH,Helicopter,New,,2003,,2011 - 2013,9,Yes,Yes,"EUR546 m deal (originally EUR657 m but reduced 2010 as compensation for delayed delivery; offsets 120% incl production of components in Greece); bought from France, FRG and Italy; option on 14 more; delivery delayed from 2006 to 2011-2015"
+30231,France,Greece,60,Yes,MM-40-3 Exocet,Anti-ship MI/SSM,New,,2008,Yes,2010 - 2013,40,Yes,,For Super Vita (Roussen) FAC
+15637,France,India,8,,PA6,Diesel engine,New,,2006,Yes,2013 - 2013,4,,,For 4 Saryu OPV produced in India
+17098,France,India,22250,Yes,MILAN,Anti-tank missile,New,,1979,Yes,1984 - 2013,20400,Yes,Yes,MILAN-2 and MILAN-2T version; ordered from French-FRG company; most produced in India; incl for BMP-2 IFV
+20208,France,India,19,,GS-100,Air search radar,New,,2009,,2010 - 2013,10,Yes,Yes,Incl 13 produced in India
+18917,France,Indonesia,100,Yes,Sherpa,APV,New,,2011,,2011 - 2013,54,Yes,Yes,Indonesian designation Elang
+8419,France,Indonesia,37,,CAESAR 155mm,Self-propelled gun,New,,2012,,2013 - 2013,2,Yes,,EUR108 m deal
+15582,France,Indonesia,12,,MIDR,Diesel engine,New,,2010,Yes,2013 - 2013,12,Yes,,For Anao (APS-3 or Panser 6x6) APC produced in Indonesia
+24422,France,Indonesia,100,Yes,Mistral,Portable SAM,New,,2012,Yes,2013 - 2013,50,Yes,,For use with ATLAS launchers on Komodo APC produced in Indonesia
+4624,France,Indonesia,3,Yes,Ocean Master,MP aircraft radar,New,,2009,,2013 - 2013,1,,,For 3 CN-235MPA MP aircraft produced in Indonesia
+10362,France,Italy,12,Yes,UMS-4110,ASW sonar,New,,2000,Yes,2007 - 2013,3,,,For 2 Doria (Horizon) destroyers and 10 Bergamini (FREMM) frigates produced in Italy; UMS-4110CL version
+15155,France,Japan,,,MO-120-RT 120mm,Mortar,New,,1992,,1993 - 2013,444,Yes,Yes,Incl for Type-96 mortar carrier produced in Japan
+6524,France,Madagascar,1,,Tetras,Light aircraft,New,,2013,,2013 - 2013,1,,,Aid
+14467,France,Malaysia,12,,EC-225/EC-725,Helicopter,New,,2010,,2012 - 2013,8,Yes,,MYR1.6 b ($500 m) deal; for SAR; delivery 2012-2014
+20122,France,Malaysia,1,,Ground Master-400,Air search radar,New,,2008,,2013 - 2013,1,,,
+14480,France,Mexico,6,,EC-225/EC-725,Helicopter,New,,2010,,2012 - 2013,4,Yes,,Delivery 2012-2014
+30233,France,Morocco,25,Yes,MM-40-3 Exocet,Anti-ship MI/SSM,New,,2008,Yes,2012 - 2013,25,Yes,,For SIGMA frigates
+20128,France,Morocco,3,Yes,Ground Master-400,Air search radar,New,,2011,,2013 - 2013,1,Yes,,Ground Master-403 version
+3080,France,Netherlands,24,Yes,RTM-332,Turboshaft,New,,2000,Yes,2010 - 2013,20,Yes,,For 12 NH-90 ASW helicopters from multi-national (incl Dutch) production; supplier could be UK or FRG
+36179,France,Netherlands,13,,ENR,MP aircraft radar,New,,2000,,2010 - 2013,10,Yes,,For 12 NH-90 ASW helicopters from multi-national (incl Dutch) production (incl 1 spare ENR)
+37154,France,New Zealand,8,,NH-90 TTH,Helicopter,New,,2006,,2011 - 2013,7,Yes,,NZD771 m ($500 m) 'Project Warrior'; delivery 2012-2014
+6523,France,Niger,3,Yes,Tetras,Light aircraft,New,,2009,Yes,2010 - 2013,3,Yes,,Aid
+6703,France,Niger,3,,SA-342 Gazelle,Light helicopter,Refurbished,Yes,2012,,2013 - 2013,3,,,Ex-French; part of CFA270 m ($77 m) aid; armed SA-342L-1 version; modernized before delivery
+30972,France,Nigeria,2,Yes,FPB-98,Patrol craft,New,,2012,Yes,2013 - 2013,1,Yes,,
+10298,France,Norway,6,,MRR-3D,Air search radar,New,,2003,,2010 - 2013,6,Yes,,MRR-3D(NG) version; for 6 Skjold FAC produced in Norway
+35812,France,Norway,6,,FLASH,ASW sonar,New,,2002,,2011 - 2013,3,Yes,,For 6 NH-90 ASW helicopters from Italy
+37155,France,Oman,20,,NH-90 TTH,Helicopter,New,,2004,,2010 - 2013,16,Yes,,EUR600-800 m deal; incl for SAR
+30230,France,Oman,50,Yes,MM-40-3 Exocet,Anti-ship MI/SSM,New,,2006,,2013 - 2013,25,Yes,,For Al Shamikh (Khareef) frigates
+36806,France,Oman,60,Yes,MICA,BVRAAM,New,,2007,Yes,2013 - 2013,30,Yes,,For VL-MICA-M SAM system on 3 Al Shamikh (Khareef) frigates
+31159,France,Pakistan,10,,AS-350/AS-550 Fennec,Light helicopter,New,,2007,Yes,2013 - 2013,10,Yes,,Armed AS-550C3 version
+30238,France,Peru,16,,MM-40-3 Exocet,Anti-ship MI/SSM,New,,2012,,2013 - 2013,16,Yes,,Part of $72-97 m deal; for modernized Lupo (Aguirre) frigates
+38180,France,Poland,2,,Cabri G2,Light helicopter,New,,2013,,2013 - 2013,2,,,$1.1 m deal; for training
+27892,France,Qatar,22,,HIGUARD,APC,New,,2011,,2012 - 2013,22,Yes,,For internal security force
+18919,France,Qatar,10,,Sherpa,APV,New,,2011,,2012 - 2013,10,Yes,,For internal security force
+30235,France,Qatar,70,Yes,MM-40-3 Exocet,Anti-ship MI/SSM,New,,2010,,2012 - 2013,70,Yes,,For Barzan (Vita) FAC
+31169,France,Russia,3,,AS-350/AS-550 Fennec,Light helicopter,New,,2012,,2013 - 2013,3,,,AS-350B version; probably for evaluation
+9051,France,Russia,2,,AS-355/AS-555,Light helicopter,New,,2012,,2013 - 2013,2,,,AS-355N3 version; probably for evaluation
+34352,France,Saudi Arabia,49,Yes,MPCV,Mobile SAM system,New,,2011,,2013 - 2013,4,Yes,,For National Guard
+30223,France,Saudi Arabia,73,,Aravis,APC,New,,2011,,2013 - 2013,25,Yes,,For National Guard
+8418,France,Saudi Arabia,32,,CAESAR 155mm,Self-propelled gun,New,,2011,,2013 - 2013,16,Yes,,EUR169 m deal; assembled from kits in Saudi Arabia; delivery 2013-2014
+15646,France,Saudi Arabia,1000,Yes,BONUS-2,Guided shell,New,,2011,Yes,2012 - 2013,1000,Yes,,
+24419,France,Saudi Arabia,800,Yes,Mistral,Portable SAM,New,,2011,,2013 - 2013,60,Yes,,For MPCV SAM systems; Mistral-2 version
+34354,France,Saudi Arabia,20,,Ground Master-60,Air search radar,New,,2011,,2013 - 2013,1,Yes,,Part of IMGP command/control systems for use with MPCV SAM system
+21510,France,Saudi Arabia,30,Yes,Damocles,Aircraft EO system,New,,2007,Yes,2009 - 2013,25,Yes,,For Tornado and Typhoon combat aircraft; possibly incl assembly or production of components in Saudi Arabia
+1575,France,Senegal,1,,RPB-33,Patrol craft,New,,2012,,2013 - 2013,1,Yes,,
+4140,France,Singapore,300,Yes,ASTER-15 SAAM,SAM,New,,2001,Yes,2006 - 2013,300,Yes,,Part of $1.6 b 'Project Delta'; for La Fayette (Formidable) frigates
+38105,France,Singapore,3,Yes,Ground Master-200,Air search radar,New,,2012,,2012 - 2013,3,Yes,,
+24030,France,South Africa,22,Yes,Makila,Turboshaft,New,,1996,Yes,2011 - 2013,22,Yes,,For 11 AH-2A Rooivalk combat helicopters produced in South Africa; Makila-1K2 version
+7430,France,Spain,24,,EC-665 Tiger,Combat helicopter,New,,2003,,2007 - 2013,7,Yes,Yes,EUR1.4 b deal; incl 6 HAP (later modernized to HAD) and 18 HAD version; incl production of 18 in Spain
+37152,France,Spain,32,Yes,NH-90 TTH,Helicopter,New,,2005,,2013 - 2013,1,Yes,Yes,EUR1.3 b deal; most produced in Spain; delivery 2013-2019
+30973,France,Suriname,1,,FPB-98,Patrol craft,New,,2012,,2013 - 2013,1,Yes,,Part of 17 m deal (incl 2 FPB-72 patrol craft); for police
+37146,France,Sweden,13,,NH-90 TTH,Helicopter,New,,2001,,2011 - 2013,5,Yes,Yes,Part of $660 m deal (most assembled in Finland; offsets 100% incl $220 m production of parts for 200 NH-90 in Sweden); NH-90TTT version; incl 3 for SAR; Swedish designation Hkp-14; delivery 2011-2019; option on 7 more
+31167,France,Thailand,8,,AS-350/AS-550 Fennec,Light helicopter,New,,2011,,2013 - 2013,8,Yes,,THB1.6 b ($52 m) deal; AS-550C3 version
+4612,France,Turkey,15,,Ocean Master,MP aircraft radar,New,,2002,,2012 - 2013,9,Yes,,Part of $400 m deal; part of 'Meltem' programme; for 9 CN-235MPA from Spain and 6 ATR-70 MP aircraft from Italy
+30227,France,United Arab Emirates,150,,MM-40-3 Exocet,Anti-ship MI/SSM,New,,2006,,2010 - 2013,75,Yes,,Part of EUR400 m deal; for Baynunah corvettes and probably for Abu Dhabi frigate and Falaj-2 covettes
+36811,France,United Arab Emirates,20,Yes,MICA,BVRAAM,New,,2011,Yes,2013 - 2013,20,Yes,,VL-MICA SAM version; For Falaj-2 corvettes
+23341,France,United Arab Emirates,1,,CAPTAS,ASW sonar,New,,2009,Yes,2013 - 2013,1,,,For 1 Abu Dhabi frigate from Italy; CAPTAS Nano or CAPTAS Mk-2 version
+23214,France,United Arab Emirates,4,,Baynunah,Corvette,New,,2003,,2011 - 2013,3,Yes,Yes,$500-545 m 'Project Baynunah' (incl $205 m for French shipyard); 3 assembled in UAE
+4142,France,United Kingdom,150,Yes,ASTER-15 SAAM,SAM,New,,1999,Yes,2009 - 2013,150,Yes,,For Daring (Type-45) destroyers
+6964,France,United Kingdom,300,Yes,ASTER-30,SAM,New,,2001,Yes,2009 - 2013,300,Yes,,For Daring (Type-45) destroyers
+15178,France,United States,66,Yes,MO-120-RT 120mm,Mortar,New,,2004,,2008 - 2013,66,Yes,,'EFSS' programme; US designation M-327
+16150,France,United States,44,,PC-2.5,Diesel engine,New,,1996,Yes,2006 - 2013,36,,Yes,For 11 San Antonio AALS produced in USA
+35810,France,United States,298,Yes,FLASH,ASW sonar,New,,2002,,2006 - 2013,187,Yes,Yes,AQS-22 ALFS version; for 298 MH-60R ASW helicopters produced in USA
+32152,France,Uruguay,2,Yes,AS365/AS565 Panther,Helicopter,New,,2013,Yes,2013 - 2013,2,Yes,,For SAR
+5602,Germany,Argentina,10,,G-120,Trainer aircraft,New,,2012,,2013 - 2013,10,Yes,,$26 m deal
+4837,Germany,Bangladesh,2,,Do-228MP,MP aircraft,New,,2011,,2013 - 2013,2,,,Do-228-212NG version
+36182,Germany,Belgium,4,,NF-90 NFH,ASW helicopter,New,,2001,,2013 - 2013,1,,,Part of EUR300 m deal
+23711,Germany,Brazil,34,,Gepard,SPAAG,SecondHand,,2013,,2013 - 2013,8,,,Second-hand; EUR37 m deal (incl 3 more for spare parts); delivery 2013-2015
+20634,Germany,Brazil,6,,MAN-280,Diesel engine,New,,2011,,2012 - 2013,6,,,For 3 VT-90M OPV from UK
+34924,Germany,Canada,8,Yes,Buffel,ARV,New,Yes,2011,,2013 - 2013,4,Yes,,CAD55 m ($54 m) deal; Canadian Leopard-2A4 tanks rebuilt to Buffel ARV; delivery 2013-2014
+29958,Germany,China,,Yes,BF8L,Diesel engine,New,,1981,Yes,1982 - 2013,4400,Yes,Yes,"For YW-531 (Type-63), YW-531H (Type-85), YW-534 (Type-89), YW-535 (Type-90), WZ-551 and WMZ-551 (Type-92) APC (incl IFV and other versions), PLT-02 tank destroyer, PTL-05 self-propelled mortar and Type-85 self-propelled gun produced in China; incl BF-8L413 and BF-8L513 versions"
+33709,Germany,Colombia,1,,OPV-80,OPV,New,,2011,,2013 - 2013,1,,Yes,$66 m deal; Colombian designation 20 de Julio
+24963,Germany,Egypt,,,Fahd,APC,New,,1978,,1986 - 2013,1250,Yes,Yes,Developed for assembly/production in Egypt; incl Fahd-240/30 IFV version
+19516,Germany,Egypt,,,Terrier LAU,APV,New,,2000,Yes,2002 - 2013,60,Yes,Yes,Produced in Egypt as Kader-120
+32662,Germany,Egypt,12,,MTU-595,Diesel engine,New,,2006,,2013 - 2013,2,Yes,,For 3 Ambassador-4 corvettes from USA
+31438,Germany,Greece,15,,M-113,APC,SecondHand,,2012,,2013 - 2013,15,Yes,,Ex-FRG; M-577 version; EUR 0.1 m. deal
+7823,Germany,Greece,350,Yes,IRIS-T,SRAAM,New,,2004,Yes,2007 - 2013,350,Yes,Yes,Incl production of components in Greece and Greece funding for development; option on 100 more
+4838,Germany,India,14,,Do-228MP,MP aircraft,New,,2012,Yes,2013 - 2013,1,Yes,Yes,$280 m deal; incl for coast guard; contract probably not yet signed
+18989,Germany,India,6,,MTU-8000,Diesel engine,New,,2006,,2010 - 2013,6,,,MTU-20V-8000 version; for 3 Vishwast OPV produced in India
+17127,Germany,India,22250,Yes,MILAN,Anti-tank missile,New,,1979,Yes,1984 - 2013,20400,Yes,Yes,MILAN-2 and MILAN-2T version; ordered from French-FRG company; most produced in India; incl for BMP-2 IFV
+38136,Germany,Indonesia,18,,G-120TP,Trainer aircraft,New,,2011,,2013 - 2013,10,Yes,,$72 m deal; delivery 2013-2014
+26709,Germany,Indonesia,42,,Marder-1A3,IFV,SecondHand,,2012,Yes,2013 - 2013,2,Yes,,Ex-FRG; delivery 2013-2014
+17651,Germany,Indonesia,42,,Leopard-2A4,Tank,SecondHand,,2012,,2013 - 2013,2,Yes,,Second-hand; delivery 2013-2014
+35970,Germany,Indonesia,72,Yes,MAN V12,Diesel engine,New,,2009,Yes,2011 - 2013,12,Yes,,For 24 KCR-40 FAC produced in Indonesia
+26079,Germany,Israel,790,Yes,MTU-883,Diesel engine,New,,2000,Yes,2002 - 2013,585,Yes,,For Merkava-4 tanks and Namer APC produced in Israel; assembled in USA from components produced in FRG
+36835,Germany,Israel,2,,Dolphin/Type-800,Submarine,New,,2006,,2012 - 2013,2,,,EUR1 b deal (33% financed by FRG)
+7822,Germany,Italy,444,Yes,IRIS-T,SRAAM,New,,2003,Yes,2006 - 2013,444,Yes,Yes,Incl production of components in Italy and Italian funding for development
+12845,Germany,Japan,15,Yes,EC-135/EC-635,Light helicopter,New,,2009,,2009 - 2013,11,Yes,,For training; Japanese designation TH-135; delivery 2009-2017
+8756,Germany,Kazakhstan,12,Yes,BK-117/EC-145,Helicopter,New,,2010,,2011 - 2013,4,Yes,,EC-145 version; assembled in Kazakhstan as KH-145 (more delivered to non-military government agencies); delivery 2011-2016
+5606,Germany,Kenya,6,,G-120,Trainer aircraft,New,,2013,,2013 - 2013,6,,,G-120A-K version
+6871,Germany,"Korea, South",1306,Yes,MTU-881,Diesel engine,New,,1998,Yes,1999 - 2013,760,Yes,,For K-9 self-propelled guns and K-10 ALV produced in South Korea
+25872,Germany,"Korea, South",48,Yes,MTU-1163,Diesel engine,New,,2005,Yes,2008 - 2013,24,Yes,,For 24 Gumdoksuri (PKX or PKG-A) FAC produced in South Korea
+17535,Germany,Latvia,5,,SWATH-125t,Patrol craft,New,,2008,Yes,2011 - 2013,4,Yes,Yes,Latvian designation Skrunda; delivery 2011-2014
+26154,Germany,Netherlands,200,Yes,MTU-199,Diesel engine,New,,2006,Yes,2013 - 2013,13,Yes,,For Boxer APC produced in Netherlands; assembled in Netherlands
+9146,Germany,Netherlands,8,,MAN-12V,Diesel engine,New,,2007,Yes,2011 - 2013,8,Yes,,For 2 Holland OPV produced in Netherlands and 2 from Romania
+36086,Germany,Netherlands,41,,MIM-104C PAC-2,SAM,SecondHand,,2013,,2013 - 2013,41,,,Ex-FRG; 1-year loan for use with Dutch Patriot SAM systems stationed in Turkey
+22123,Germany,Norway,12,,MTU-183,Diesel engine,New,,1999,Yes,2010 - 2013,12,Yes,,For 6 Skjold FAC produced in Norway
+18990,Germany,Oman,6,,MTU-8000,Diesel engine,New,,2007,,2013 - 2013,4,,,For 3 Al Shamikh (Khareef) frigates from UK
+883,Germany,"Philippines, the",5,,Bell-205/UH-1D,Helicopter,SecondHand,,2013,Yes,2013 - 2013,5,,,Ex-FRG
+17782,Germany,Saudi Arabia,73,Yes,OM-924,Diesel engine,New,,2011,,2013 - 2013,25,Yes,,For 73 Aravis APC from France
+7827,Germany,Saudi Arabia,1400,Yes,IRIS-T,SRAAM,New,,2009,,2010 - 2013,1100,Yes,,For Tornado and Typhoon combat aircraft
+12849,Germany,Spain,12,,EC-135/EC-635,Light helicopter,New,,2010,,2011 - 2013,12,Yes,Yes,EUR65 m deal; for training; Spanish designation HE-26
+17661,Germany,Spain,219,,Leopard-2A6,Tank,New,,1998,,2003 - 2013,219,Yes,Yes,Part of EUR1.9 b deal (offsets 80% incl production of 189 in Spain); Leopard-2E version
+22122,Germany,Spain,117,Yes,MTU-183,Diesel engine,New,,2003,,2009 - 2013,117,Yes,,For 117 Pizarro (ASCOD) IFV produced in Spain
+22126,Germany,Spain,21,Yes,MTU-183,Diesel engine,New,,2007,,2010 - 2013,18,Yes,,For 21 Piranha-3 APC/IFV from Switzerland
+7819,Germany,Spain,700,,IRIS-T,SRAAM,New,,2009,,2011 - 2013,275,Yes,Yes,EUR247 m deal (incl production of components in Spain and Spanish funding for development
+25471,Germany,Thailand,142,Yes,MTU-6R-106,Diesel engine,New,,2011,,2012 - 2013,51,Yes,,For 142 BTR-3E1 IFV from Ukraine
+7828,Germany,Thailand,40,Yes,IRIS-T,SRAAM,New,,2010,,2012 - 2013,40,Yes,,For JAS-39 combat aircraft
+17652,Germany,Turkey,56,,Leopard-2A4,Tank,SecondHand,Yes,2009,,2010 - 2013,56,Yes,,Second-hand but probably modernized to Leopard-2NG version in Turkey after delivery
+6870,Germany,Turkey,470,Yes,MTU-881,Diesel engine,New,,2001,Yes,2004 - 2013,470,Yes,,For 170 Sabra-3 (modernized M-60) tanks from Israel and 300 K-9 self-propelled guns from South Korea
+32667,Germany,Turkey,12,Yes,MTU-595,Diesel engine,New,,2008,,2011 - 2013,4,,,For 6 Heybeliyada (MilGem) frigates produced in Turkey
+6872,Germany,Turkey,70,Yes,MTU-881,Diesel engine,New,,2008,,2013 - 2013,2,Yes,,For K-10 ALV from South Korea
+32661,Germany,United Arab Emirates,24,Yes,MTU-595,Diesel engine,New,,2003,Yes,2011 - 2013,12,Yes,,For 6 Baynunah corvettes from France
+37883,Germany,United Arab Emirates,24,Yes,MTU-2000,Diesel engine,New,,2009,,2013 - 2013,8,Yes,,For 12 Ghannatha FAC from Sweden
+37874,Germany,United Arab Emirates,4,,MTU-4000,Diesel engine,New,,2010,,2013 - 2013,4,,,For 2 Falaj-2 corvettes from Italy
+8748,Germany,United States,346,Yes,BK-117/EC-145,Helicopter,New,,2006,,2006 - 2013,297,Yes,Yes,$3 b 'LUH' programme (incl 20 years support); EC-145 version; US designation UH-72A Lakota
+5394,Germany,United States,15,Yes,Do-328,Transport aircraft,SecondHand,Yes,2009,Yes,2009 - 2013,15,Yes,,Second-hand
+15477,India,Afghanistan,3,,SA-315B Lama,Light helicopter,New,,2012,Yes,2013 - 2013,3,Yes,,Cheetal version
+25467,India,Maldives,1,,Druhv,Helicopter,New,,2013,Yes,2013 - 2013,1,,,Aid
+4839,India,Seychelles,2,,Do-228MP,MP aircraft,New,,2012,Yes,2013 - 2013,1,,,Aid against Somali pirates; delivery 2013-2014
+21155,Iran,Huthi rebels (Yemen),10,Yes,Misagh-2,Portable SAM,New,,2012,Yes,2013 - 2013,10,Yes,,Captured by Yemen before final delivery to Huthi rebels
+34961,Iran,Syria,,,Fateh-110,SSM,New,,2007,,2008 - 2013,900,Yes,Yes,Syrian designation probably Tishirin
+17050,Iran,Venezuela,12,Yes,Mohajer,UAV,New,,2007,Yes,2012 - 2013,12,Yes,Yes,Probably Mohajer-3 version; Venezuelan designation probably Sant Arpia
+24656,Ireland,"Macedonia, Former Yugoslav Republic of (FYROM)",4,Yes,Bell-206/OH-58,Light helicopter,SecondHand,,2011,Yes,2013 - 2013,4,Yes,,Second-hand; ordered via Israeli company; Bell-206B version
+10414,Israel,Austria,150,,ORCWS,AV turret,New,,2009,,2009 - 2013,150,Yes,Yes,$25 m deal; for 150 LMV APV from Italy
+12425,Israel,Azerbaijan,10,Yes,Hermes-450,UAV,New,,2008,,2011 - 2013,10,Yes,,
+14713,Israel,Azerbaijan,5,Yes,Heron,UAV,New,,2011,Yes,2013 - 2013,5,Yes,,Part of $1.6 b deal
+13649,Israel,Azerbaijan,5,Yes,Searcher,UAV,New,,2011,Yes,2013 - 2013,5,Yes,,Part of $1.6 b deal
+12625,Israel,Belgium,32,,UT-25/UT-30,IFV turret,New,,2006,,2010 - 2013,30,Yes,,UT-30 version; for Piranha-3 IFV from Switzerland
+12430,Israel,Brazil,2,,Hermes-450,UAV,New,,2012,Yes,2013 - 2013,2,,,BRL48 m ($25 m) deal; Brazilian designation RQ-450; assembled in Brazil
+7791,Israel,Brazil,200,Yes,Python-4,BVRAAM,New,,2002,Yes,2010 - 2013,140,Yes,,For F-5M combat aircraft
+36767,Israel,Brazil,20,Yes,Litening,Aircraft EO system,New,,2006,Yes,2011 - 2013,15,Yes,,Litening-3 version; for AMX and F-5M combat aircraft
+33476,Israel,Brazil,9,,EL/M-2022,MP aircraft radar,New,,2005,Yes,2011 - 2013,7,Yes,,Part of EUR320 m 'P-X' programme for modernization of 9 P-3A ASW aircraft to P-3AM (P-3BR); EL/M-2022A(V)3 version
+30907,Israel,Chile,3,,Hermes-900,UAV,New,,2011,,2013 - 2013,3,Yes,,$40 m deal
+12434,Israel,Colombia,2,,Hermes-450,UAV,New,,2012,,2013 - 2013,1,Yes,,Delivery 2013-2014
+30910,Israel,Colombia,1,,Hermes-900,UAV,New,,2012,,2013 - 2013,1,Yes,,
+13253,Israel,Colombia,200,Yes,Griffin,Guided bomb,New,,2007,,2013 - 2013,100,Yes,,
+36786,Israel,Denmark,10,Yes,Litening,Aircraft EO system,New,,2012,,2013 - 2013,10,Yes,,Litening-4 version; from US production line
+28284,Israel,Germany,3000,Yes,Spike-MR/LR,Anti-tank missile,New,,2009,Yes,2010 - 2013,1120,Yes,Yes,'MELLS' programme; Spike-LR version; for Puma IFV
+10280,Israel,India,18,,SPYDER-MR,SAM system,New,,2008,,2012 - 2013,6,Yes,Yes,$260 m 'LLQRM' programme
+14711,Israel,India,16,Yes,Heron,UAV,New,,2009,Yes,2012 - 2013,16,Yes,,INR11.2 b ($239 m) deal
+21251,Israel,India,,,LAHAT,Anti-tank missile,New,,2006,Yes,2013 - 2013,100,Yes,,For Arjun tank
+7761,Israel,India,750,Yes,Derby,BVRAAM,New,,2008,Yes,2012 - 2013,300,Yes,,For SPYDER SAM systems
+20775,Israel,India,750,Yes,Python-5,BVRAAM,New,,2008,,2012 - 2013,300,Yes,,For SPYDER SAM system; possibly incl production of components in India
+13252,Israel,India,250,Yes,Griffin,Guided bomb,New,,2009,,2012 - 2013,250,Yes,,
+13731,Israel,India,400,Yes,Barak-1,SAM,New,,2002,Yes,2005 - 2013,280,Yes,,For Delhi (Project-15) and Kolkata (Project-15A) destroyers and probably for Shivalik (Project-17) and Kamorta (Project-28) frigates
+18289,Israel,India,50,Yes,Harop,SSM,New,,2009,Yes,2013 - 2013,25,Yes,,$100 m deal
+34172,Israel,India,23,Yes,EL/M-2084,Air search radar,New,,2009,,2011 - 2013,13,Yes,Yes,Indian designation Arudhra
+28281,Israel,Italy,990,,Spike-MR/LR,Anti-tank missile,New,,2009,,2009 - 2013,810,Yes,Yes,EUR121 m deal (incl 90 launchers; incl production of components and assembly in Italy); Spike-LR version; incl for Dardo and Freccia IFV; delivery 2009-2014
+28448,Israel,Italy,750,Yes,Spike-ER,Anti-tank missile,New,,2010,,2013 - 2013,100,Yes,,For A-129 combat helicopters
+37015,Israel,"Korea, South",6,Yes,SandCat Spike-NLOS,SSM launcher,New,,2011,,2013 - 2013,6,Yes,,
+15569,Israel,"Korea, South",67,Yes,Spike-NLOS,SSM/ASM,New,,2011,,2013 - 2013,67,,,
+16094,Israel,"Korea, South",60,Yes,EL/M-2032,Combat ac radar,New,,2009,,2013 - 2013,8,Yes,,For some 60 FA-50 combat aircraft produced in South Korea
+33477,Israel,New Zealand,6,,EL/M-2022,MP aircraft radar,New,,2005,,2011 - 2013,5,Yes,,Part of NZD352 m ($260 m) modernization of 6 P-3K ASW aircraft; EL/M-2022(V)3 version; delivery 2011-2014
+9896,Israel,Nigeria,3,,Shaldag,Patrol craft,New,,2012,,2013 - 2013,2,,,$19 m deal; Shaldag Mk-3 version
+28274,Israel,Poland,2675,Yes,Spike-MR/LR,Anti-tank missile,New,,2003,,2004 - 2013,2675,Yes,Yes,PLN1.49 b ($425 m) deal (incl $250-260 m for Israeli producer; offsets $826 m incl production of components and assembly in Poland; incl 264 launchers); Spike-LR version
+13651,Israel,Russia,10,Yes,Searcher,UAV,New,,2010,,2013 - 2013,6,Yes,,Searcher-2 version; assembled in Russia
+6138,Israel,Rwanda,10,Yes,Ti-67S,Tank,SecondHand,,2012,Yes,2013 - 2013,10,Yes,,Ex-Israeli
+33487,Israel,Seychelles,2,,EL/M-2022,MP aircraft radar,New,,2012,Yes,2013 - 2013,1,,,For 2 Do-228 MP aircraft from India
+28267,Israel,Spain,2630,Yes,Spike-MR/LR,Anti-tank missile,New,,2006,,2010 - 2013,2500,Yes,Yes,EUR328 m deal (incl 260 launchers; offsets incl production in Spain); Spike-LR version; delivery 2010-2014
+28252,Israel,Turkey,468,,Navigator,APC,New,,2009,,2010 - 2013,293,Yes,Yes,BMC-350-16 Kirpi version
+12418,Israel,United Kingdom,54,,Hermes-450,UAV,New,,2005,,2012 - 2013,26,Yes,Yes,Part of GBP700 m-GBP1 b ($1.2-1.6 b) 'Watchkeeper' programme (incl GBP300m for producer of Hermes-450) most produced in UK; UK designation WK-450
+36782,Israel,United States,250,Yes,Litening,Aircraft EO system,New,,2010,,2011 - 2013,75,Yes,Yes,Part of $2.3 b 'ATP-SE' programme; Litening-SE version; delivery 2011-2017
+23124,Israel,Unknown country,3,,ATMOS-2000 155mm,Self-propelled gun,New,,2011,,2013 - 2013,3,Yes,,$24 m deal; recipient is African country
+12755,Israel,Unknown country,2,Yes,EL/M-2055,AGS radar,New,,2008,,2013 - 2013,2,Yes,,Recipient is Far Eastern country; for use on UAV
+33485,Israel,Unknown country,1,,EL/M-2022,MP aircraft radar,New,,2010,Yes,2013 - 2013,1,Yes,,For use on aerostat
+38215,Israel,Viet Nam,1,Yes,EL/M-2088 AD-STAR,Air search radar,New,,2012,,2013 - 2013,1,Yes,,Probably $33 m deal
+24070,Italy,Algeria,4,Yes,AW139,Helicopter,New,,2011,Yes,2013 - 2013,4,,,For SAR
+32752,Italy,Austria,150,,M-65E LMV,APV,New,,2008,,2009 - 2013,150,Yes,Yes,EUR104 m deal
+15972,Italy,Bangladesh,16,,Grifo,Combat ac radar,New,,2011,,2012 - 2013,16,Yes,,For 16 F-7MG (F-7BGI) combat aircraft from China
+16836,Italy,Brazil,2044,Yes,VBTP Guarani,APC,New,,2009,,2012 - 2013,8,Yes,Yes,"BRL6 b (EUR2.5 b) deal; incl command, AFSV, ambulance, ARV and 120mm mortar carrier versions; delivery 2012-2030"
+15963,Italy,Brazil,46,,Grifo,Combat ac radar,New,,2000,,2006 - 2013,46,Yes,,EUR60 m deal; for $285 m 'F-5BR' modernization programme of 46 F-5E combat aircraft to F-5M; Grifo-F version
+16461,Italy,Brazil,43,Yes,SCP-01 Scipio,Combat ac radar,New,,2004,,2013 - 2013,6,Yes,Yes,Part of $400 m modernization of 43 AMX (A-1) combat aircraft; designed for Brazil; incl production of components in Brazil
+8335,Italy,Chad,2,,C-27J Spartan,Transport aircraft,New,,2012,,2013 - 2013,1,Yes,,Delivery 2013-2014
+32754,Italy,Czech Republic,90,,M-65E LMV,APV,New,,2009,,2010 - 2013,90,Yes,,CZK3.6 b ($175 m) deal (offsets 100%)
+16306,Italy,Finland,3,,Gaeta,MCM ship,New,,2006,,2012 - 2013,2,,Yes,EUR245 m deal; MCMV-2010 version; incl 1 partly produced in Finland; delivery 2012-2014
+29676,Italy,India,4,,Super Rapid 76mm,Naval gun,New,,2006,Yes,2013 - 2013,2,,,For 4 Saryu OPV produced in India; possibly produced in India
+13443,Italy,"Korea, South",24,,Compact 76mm,Naval gun,New,,2005,Yes,2008 - 2013,12,Yes,Yes,For 24 Gumdoksuri (PKX or PKG-A) FAC produced in South Korea; probably produced in South Korea
+24846,Italy,Kuwait,250,Yes,Aspide,BVRAAM,New,,2007,,2008 - 2013,250,Yes,,Part of $65 m deal; Aspide-2000 SAM version; for Skyguard AD systems
+27375,Italy,Libya,20,,Puma,APV,New,Yes,2012,Yes,2013 - 2013,20,,,Possibly second-hand; aid
+34446,Italy,Morocco,50,Yes,MU90 IMPACT,ASW torpedo,New,,2008,Yes,2011 - 2013,40,Yes,,For FREMM and SIGMA frigates
+37147,Italy,Norway,8,,NH-90 TTH,Helicopter,New,,2001,,2011 - 2013,5,Yes,Yes,Part of $425 m deal (offsets incl production of components in Norway); NH-90NFH(G) version; for coast guard; for SAR; option on 10 more
+32765,Italy,Norway,62,,M-65E LMV,APV,New,,2013,,2013 - 2013,30,Yes,,
+29656,Italy,Norway,11,,Super Rapid 76mm,Naval gun,New,,2000,Yes,2006 - 2013,11,,,For 5 Nansen frigates from Spain and 6 Skjold FAC produced in Norway
+29670,Italy,Oman,3,,Super Rapid 76mm,Naval gun,New,,2007,Yes,2013 - 2013,2,,,For 3 Al Shamikh frigates from UK
+16110,Italy,Pakistan,10,Yes,Spada-2000,SAM system,New,,2007,,2010 - 2013,10,Yes,,EUR415 m deal; Spada-2000 Plus version
+24847,Italy,Pakistan,200,Yes,Aspide,BVRAAM,New,,2007,,2010 - 2013,200,Yes,,Part of EUR415 m deal for Spada-2000 SAM systems; Aspide-2000 SAM version
+24054,Italy,Panama,5,Yes,AW139,Helicopter,New,,2010,,2013 - 2013,5,,,Part of EUR200 m deal (incl 1 more for VIP transport); for coast guard
+34489,Italy,Panama,19,Yes,Argos-73,Air/sea search radar,New,,2010,,2012 - 2013,19,Yes,,Designation uncertain (reported as coastal radar)
+17800,Italy,Poland,313,,HITFIST,IFV turret,New,,2003,,2004 - 2013,238,Yes,Yes,$308 m deal (offsets $525 m incl production of 241 in Poland); for 313 AMV IFV from Finland
+6573,Italy,Portugal,40,Yes,Black Shark,AS/ASW torpedo,New,,2005,,2011 - 2013,40,Yes,,EUR47 m ($62 m) deal (incl offsets); for Type-214 (Type-209PN) submarines
+8328,Italy,Romania,7,,C-27J Spartan,Transport aircraft,New,,2007,,2010 - 2013,7,Yes,,EUR220 m deal
+32762,Italy,Russia,60,Yes,M-65E LMV,APV,New,,2011,,2012 - 2013,60,Yes,,Assembled from kits in Russia
+15764,Italy,Singapore,12,,M-346,Trainer/combat ac,New,,2010,,2012 - 2013,10,Yes,,EUR250 m deal (part of $411 m 'AJT' deal); based in France
+29692,Italy,Thailand,1,,Super Rapid 76mm,Naval gun,New,,2009,Yes,2013 - 2013,1,,,For 1 BVT-90 (Krabi) OPV from UK
+38129,Italy,Turkey,2,,ATR-72,Transport aircraft,New,,2005,,2013 - 2013,2,,,'Meltem-3' programme; ATR-72-600 version
+29651,Italy,United Arab Emirates,6,,Super Rapid 76mm,Naval gun,New,,2003,Yes,2011 - 2013,4,Yes,,For 6 Baynunah corvettes from France
+30328,Italy,United Arab Emirates,100,Yes,Sea Killer/Marte-2,Anti-ship missile,New,,2009,,2013 - 2013,25,Yes,,Marte-2/N version; for 12 Ghannatha FAC
+20145,Italy,United Arab Emirates,6,,Orion RTN-25X,Fire control radar,New,,2004,,2011 - 2013,3,Yes,,For 6 Baynunah corvettes from France
+37183,Italy,United Arab Emirates,2,,Falaj-2,Corvette,New,,2010,,2013 - 2013,2,,,Option on 2 more
+21416,Italy,United Arab Emirates,1,,Abu Dhabi,Frigate,New,,2009,,2013 - 2013,1,,,AED430 m ($117 m) deal; option on 1 more
+10690,Italy,United Nations,2,Yes,Falco,UAV,New,,2013,,2013 - 2013,2,Yes,,EUR10 m 3-year lease; for use with UN peacekeeping forces in DRC
+8327,Italy,United States,21,,C-27J Spartan,Transport aircraft,New,,2007,,2008 - 2013,18,Yes,,"'JCA' (formerly 'FCA' or 'C-XX') programme; original plan for over 100 reduced to 78, then to 38 and in 2013 to 21"
+32945,Jordan,Libya,49,Yes,Nimr Armored,APV,New,,2009,,2013 - 2013,49,Yes,,
+16462,"Korea, South",Indonesia,16,,T-50 Golden Eagle,Trainer/combat ac,New,,2011,,2013 - 2013,12,Yes,,$400 m deal
+25129,"Korea, South",Malaysia,2,,Gagah Samudera,Training ship,New,,2011,,2013 - 2013,1,Yes,Yes,MYR294 m deal; incl for patrol; delivery from 2013
+1856,"Korea, South",Turkey,70,Yes,K-10,ALV,New,,2008,Yes,2013 - 2013,2,Yes,,Part of $998 m deal; delivery from 2013
+5950,"Korea, South",Turkey,300,Yes,K-9 Thunder 155mm,Self-propelled gun,New,,2001,,2004 - 2013,300,Yes,Yes,$1-1.2 b deal (incl $60-70 m for first 8-20); Turkish designation Firtina and TUSpH Storm
+17646,Netherlands,Canada,80,,Leopard-2A4,Tank,SecondHand,,2007,,2008 - 2013,42,Yes,,"Second-hand; part of CAD650 m deal, incl 20 modernized after delivery to Leopard-2A4M for operational use, 42 for training and 18 modification to ARV and AEV (20 more Leopard-2A6 bought by Canada for delivery to FRG to replace 20 delivered by FRG to Canada in 2008)"
+32796,Netherlands,Egypt,3,,STING,Fire control radar,New,,2006,Yes,2013 - 2013,1,Yes,,For 3 Ambassador-4 corvettes from USA
+9015,Netherlands,Estonia,81,,XA-180,APC,SecondHand,,2010,,2010 - 2013,56,Yes,,Second-hand; EEK320 m ($25-29 m) deal; incl for use in Afghanistan; delivery 2010-2015
+1016,Netherlands,Germany,4,,Variant,Air/sea search radar,New,,2009,,2012 - 2013,4,Yes,,For 1 Berlin (Type-702) support ship produced in FRG and modernization of 2 Berlin ships and for 1 land-based training center
+7381,Netherlands,Germany,10,,MIRADOR,EO search/fire control,New,,2002,Yes,2008 - 2013,10,Yes,,For 5 Braunschweig (K-130) frigates produced in FRG
+37937,Netherlands,Honduras,2,Yes,Stan Patrol-4207,Patrol craft,New,,2012,,2013 - 2013,2,Yes,,Part of $62 m 13-year lease
+14546,Netherlands,Jordan,221,Yes,AIFV-APC,APC,SecondHand,,2010,,2011 - 2013,221,Yes,,Second-hand; incl YPR-806 ARV
+31424,Netherlands,Jordan,69,Yes,M-113,APC,SecondHand,,2010,,2012 - 2013,66,Yes,,Ex-Dutch; M-577 command post version
+2602,Netherlands,Jordan,220,Yes,AIFV,IFV,SecondHand,,2010,,2011 - 2013,220,Yes,,Second-hand
+7389,Netherlands,Malaysia,2,,MIRADOR,EO search/fire control,New,,2009,,2013 - 2013,1,,,For modernization of 2 FS-1500 (Kasturi) frigates
+18822,Netherlands,Norway,44,,SQUIRE,Ground surv radar,New,,2013,,2013 - 2013,10,Yes,,
+3352,Netherlands,Oman,3,,SMART,Air search radar,New,,2007,,2013 - 2013,2,,,For 3 Al Shamikh (Khareef) frigates from UK; SMART-S Mk-2 version
+32802,Netherlands,Oman,3,,STING,Fire control radar,New,,2007,,2013 - 2013,2,,,For 3 Al Shamikh (Khareef) frigates from UK
+18819,Netherlands,Saudi Arabia,225,Yes,SQUIRE,Ground surv radar,New,,2009,,2011 - 2013,125,Yes,,Part of 'Miksa' deal; for border security
+1020,Netherlands,Thailand,1,,Variant,Air/sea search radar,New,,2009,Yes,2013 - 2013,1,,,For 1 BVT-90 (Krabi) OPV from UK
+6302,Netherlands,Thailand,1,,LIROD,Fire control radar,New,,2009,Yes,2013 - 2013,1,,,For 1 BVT-90 (Krabi) OPV from UK; Lirod Mk-2 version
+3354,Netherlands,Turkey,6,Yes,SMART,Air search radar,New,,2007,,2011 - 2013,2,Yes,,For 6 Heybeliyada (MilGem) frigates produced in Turkey
+3359,Netherlands,Turkey,8,,SMART,Air search radar,New,,2009,Yes,2011 - 2013,7,Yes,,SMART-S Mk-2 version; for modernization of 8 MEKO-200 frigates
+32803,Netherlands,Turkey,6,Yes,STING,Fire control radar,New,,2007,,2011 - 2013,2,Yes,,For 6 Heybeliyada (MilGem) frigates produced in Turkey
+4806,Netherlands,United Kingdom,6,,SMART-L,Air/sea search radar,New,,2002,Yes,2010 - 2013,6,,,S-1850M version; for 6 Daring (Type-45) destroyers produced in UK
+30209,Netherlands,United States,33,Yes,Stan Patrol-4708,Patrol craft,New,,2009,,2012 - 2013,5,,Yes,For coast guard
+16167,Norway,Finland,,,NASAMS,SAM system,New,,2009,,2013 - 2013,2,Yes,Yes,NOK3 b ($458 m) 'MRADMS' programme
+36627,Norway,Netherlands,140,Yes,Protector,APC turret,New,,2006,Yes,2013 - 2013,5,Yes,,For 140 Boxer APC produced in Netherlands
+29362,Norway,Nigeria,1,Yes,Boeing-737 Classic,Transport aircraft,SecondHand,,2012,Yes,2013 - 2013,1,,,Second-hand; Boeing-737-505 version; possibly incl for civilian use
+30325,Norway,Poland,38,,NSM,Anti-ship missile,New,,2010,,2013 - 2013,14,Yes,,NOK712 m ($120 m) deal; for NSM coast defence systems; delivery by 2012-15
+36629,Norway,Switzerland,70,Yes,Protector,APC turret,New,,2011,Yes,2013 - 2013,70,Yes,,For Duro-3P (GMTF or RP-13) APC produced in Switzerland
+27750,Poland,"Philippines, the",8,,W-3 Sokol,Helicopter,New,,2011,,2012 - 2013,8,,,PHP2.8 b ($64 m) deal
+26584,Poland,United States,21,,MiG-21bis/Fishbed-N,Fighter aircraft,SecondHand,,2012,Yes,2013 - 2013,21,,,Ex-Polish; for US company for training of US forces
+26679,Poland,United States,4,,MiG-21PFM/Fishbed-F,Fighter aircraft,SecondHand,,2012,,2013 - 2013,4,,,Ex-Polish; MiG-21UM version; for US company for training of US forces
+38193,Romania,Mozambique,2,Yes,R40S Festival,Light aircraft,New,,2012,Yes,2013 - 2013,2,Yes,,
+36559,Romania,Netherlands,2,,Holland,OPV,New,,2007,,2012 - 2013,2,Yes,,Designed in Netherlands and produced in Romania for Netherlands
+16783,Russia,Afghanistan,12,,Mi-8MT/Mi-17/Hip-H,Helicopter,New,,2013,,2013 - 2013,12,,,Part of $171 m deal (financed by USA); ordered via USA; Mi-17V-5 version
+20271,Russia,Algeria,38,Yes,96K9 Pantsyr-S1,Mobile AD system,New,,2006,Yes,2012 - 2013,24,Yes,,
+350,Russia,Algeria,120,,T-90S,Tank,New,,2011,,2012 - 2013,120,Yes,,$470 m deal
+30773,Russia,Algeria,30,Yes,Kh-35 Uran/SS-N-25,Anti-ship missile,New,,2009,Yes,2011 - 2013,30,Yes,,For modernized Project-1234 (Nanuchka or Hamidou) corvettes
+6504,Russia,Algeria,500,Yes,9M131/AT-13 Saxhorn,Anti-tank missile,New,,2006,Yes,2009 - 2013,500,Yes,,
+6162,Russia,Algeria,20,Yes,TEST-71,AS/ASW torpedo,New,,2007,Yes,2011 - 2013,20,Yes,,For modernized Project-1159 (Koni or Mourad Rais) frigates
+4168,Russia,Algeria,750,Yes,9M311/SA-19 Grison,SAM,New,,2006,Yes,2012 - 2013,400,Yes,,For Pantsyr-S1 AD systems
+5918,Russia,Azerbaijan,1,Yes,9K40 Buk/SA-17,SAM system,New,Yes,2012,,2013 - 2013,1,Yes,,Probably ex-Russian Buk (SA-11) system rebuilt to Buk-MB
+25616,Russia,Azerbaijan,24,,Mi-24VM/Hind-E,Combat helicopter,New,Yes,2010,,2011 - 2013,20,Yes,,$360 m deal; Mi-35M version (possibly second-hand Mi-24 rebuilt to Mi-35M); delivery 2011-2014
+16785,Russia,Azerbaijan,66,Yes,Mi-8MT/Mi-17/Hip-H,Helicopter,New,,2010,Yes,2010 - 2013,53,Yes,,Incl 20 for border guard and 6 for police
+24805,Russia,Azerbaijan,100,Yes,BMP-3,IFV,New,,2011,,2013 - 2013,100,Yes,,BMP-3M version
+352,Russia,Azerbaijan,94,Yes,T-90S,Tank,New,,2011,,2013 - 2013,94,Yes,,
+14978,Russia,Azerbaijan,18,,2S19 MSTA-S 152mm,Self-propelled gun,New,,2011,Yes,2012 - 2013,18,Yes,,
+23450,Russia,Azerbaijan,18,Yes,2S31 Vena,Self-propelled mortar,New,,2011,Yes,2012 - 2013,18,Yes,,
+29407,Russia,Azerbaijan,18,Yes,BM-9A52 Smerch,Self-propelled MRL,New,,2011,Yes,2012 - 2013,18,Yes,,
+15300,Russia,Azerbaijan,6,,TOS-1,Self-propelled MRL,New,,2011,Yes,2013 - 2013,6,Yes,,
+27663,Russia,Azerbaijan,1000,Yes,9M117/AT-10 Stabber,Anti-tank missile,New,,2011,Yes,2013 - 2013,1000,Yes,,For BMP-3 IFV
+4275,Russia,Azerbaijan,100,Yes,9M317/SA-17 Grizzly,SAM,New,Yes,2012,,2013 - 2013,100,Yes,,
+6508,Russia,Bangladesh,1200,Yes,9M131/AT-13 Saxhorn,Anti-tank missile,New,,2012,Yes,2013 - 2013,1200,Yes,,
+27614,Russia,Belarus,4,,Tor-M1/SA-15,Mobile SAM system,New,,2012,Yes,2013 - 2013,4,Yes,,
+2146,Russia,Belarus,100,Yes,9M338/SA-15 Gauntlet,SAM,New,,2012,Yes,2013 - 2013,100,Yes,,
+25612,Russia,Brazil,12,,Mi-24VM/Hind-E,Combat helicopter,New,,2009,,2010 - 2013,12,Yes,,$150 m deal; Mi-35M version; Brazilian designation AH-2 Sabre
+34458,Russia,Brazil,300,Yes,Igla-S/SA-24,Portable SAM,New,,2010,Yes,2010 - 2013,300,Yes,,
+16805,Russia,Cameroon,1,Yes,Mi-8MT/Mi-17/Hip-H,Helicopter,New,,2013,,2013 - 2013,1,Yes,,
+24075,Russia,China,92,Yes,AK-630 30mm,Naval gun,New,,2002,Yes,2004 - 2013,86,Yes,,"For 2 Type-054 (Jiangkai-1) frigates, 60 Type-022 (Houbei) FAC and 4 Type-071 (Yuzhao) AALS produced in China and 4 Zubr landing craft from Ukraine; possibly produced in China"
+16794,Russia,China,55,,Mi-8MT/Mi-17/Hip-H,Helicopter,New,,2012,,2013 - 2013,25,Yes,,Mi-171E version; possibly incl for civilian use; delivery 2013-2014
+16796,Russia,China,52,,Mi-8MT/Mi-17/Hip-H,Helicopter,New,,2012,,2013 - 2013,32,Yes,,Mi-171E version; possibly for police or other non-military government agency; delivery 2013-2014
+8068,Russia,China,5,Yes,Il-76M/Candid-B,Transport aircraft,SecondHand,Yes,2011,,2013 - 2013,5,Yes,,Second-hand
+12293,Russia,China,123,,AL-31,Turbofan,New,,2011,,2012 - 2013,70,Yes,,$500 m deal; AL-31FN version; for J-10 combat aircraft produced in China
+12294,Russia,China,150,Yes,AL-31,Turbofan,New,,2011,,2012 - 2013,35,Yes,,For J-11B combat aircraft produced in China; AL-31F version
+8919,Russia,China,184,,D-30,Turbofan,New,,2011,,2012 - 2013,64,Yes,,For H-6K bomber aircraft and Y-20 transport aircraft produced in China and modernization of Il-76 transport aircraft
+30794,Russia,China,,,Kh-59MK/AS-18MK,Anti-ship missile,New,,2004,Yes,2008 - 2013,150,Yes,,For Su-30 combat aircraft; probably Kh-59MK2 version developed for and funded by China
+33930,Russia,China,,,Kh-31A1/AS-17,Anti-ship missile/ARM,New,,1997,Yes,2001 - 2013,835,Yes,Yes,"Kh-31A and Kh-31P or Kh-31AMK and Kh-31PMK version; for Su-30, J-8M and/or JH-7 combat aircraft; including production of Kh-31P in China as KR-1, YJ-9 or YJ-91"
+9745,Russia,China,,,9M119/AT-11 Sniper,Anti-tank missile,New,,1998,Yes,2001 - 2013,1300,Yes,Yes,For Type-98 and Type-99 tanks
+16741,Russia,Egypt,14,,Mi-8MT/Mi-17/Hip-H,Helicopter,New,,2009,,2012 - 2013,14,Yes,,$100 m deal; armed Mi-17V-5 version
+16770,Russia,Ghana,4,,Mi-8MT/Mi-17/Hip-H,Helicopter,New,,2012,,2013 - 2013,4,Yes,,EUR64 m deal; Mi-171Sh armed version
+16799,Russia,Ghana,2,,Mi-8MT/Mi-17/Hip-H,Helicopter,New,,2012,,2013 - 2013,2,Yes,,EUR24 m deal; Mi-171Sh armed version
+24083,Russia,India,16,,AK-630 30mm,Naval gun,New,,2006,Yes,2012 - 2013,12,Yes,,For 4 Saryu OPV produced in India and 2 Deepak support ships from Italy
+18201,Russia,India,5,,Ka-31/Helix,AEW helicopter,New,,2009,Yes,2013 - 2013,5,,,INR9.5 b ($198 m) deal
+12669,Russia,India,140,,Su-30MK/Flanker,FGA aircraft,New,,2001,Yes,2005 - 2013,86,Yes,Yes,$3-5.4 b deal; Su-30MKI version; delivery 2005-2017
+6754,Russia,India,62,Yes,MiG-29SMT/Fulcrum,FGA aircraft,New,Yes,2008,,2012 - 2013,6,Yes,Yes,$850-965 m deal; Indian MiG-29 rebuilt to MiG-29UPG (MiG-29SMT); delivery 2012-2016
+6750,Russia,India,29,,MiG-29SMT/Fulcrum,FGA aircraft,New,,2010,,2012 - 2013,11,Yes,,$1.2-1.5 b deal; MiG-29K version; incl 4 MiG-29KUB; for use on IAC aircraft carrier
+16675,Russia,India,80,,Mi-8MT/Mi-17/Hip-H,Helicopter,New,,2008,,2011 - 2013,80,Yes,,$1.3 b deal (offsets $504 m); Mi-17V-5 armed version
+343,Russia,India,1000,Yes,T-90S,Tank,New,,2006,Yes,2009 - 2013,180,Yes,Yes,
+9777,Russia,India,250,Yes,YaMZ-238,Diesel engine,New,,2009,Yes,2011 - 2013,120,Yes,Yes,For Casspir-6 APC from South Africa
+12296,Russia,India,800,Yes,AL-31,Turbofan,New,,2012,,2013 - 2013,50,Yes,,Delivery 2013-2022
+32334,Russia,India,150,Yes,PJ-10 BrahMos,Anti-ship MI/SSM,New,,1998,Yes,2006 - 2013,60,Yes,Yes,Version of Yakhont (SS-N-26); officially joint venture for development but mainly using Russian technology
+22858,Russia,India,25000,Yes,9M113/AT-5 Spandrel,Anti-tank missile,New,,1988,Yes,1992 - 2013,21800,Yes,Yes,For BMP-2 IFV; ordered from Soviet Union and produced under Russian licence after break-up of Soviet Union; incl 9M113M version from 2003
+22881,Russia,India,10000,,9M113/AT-5 Spandrel,Anti-tank missile,New,,2012,,2013 - 2013,2000,Yes,,INR12 b ($225 m) deal
+14014,Russia,India,500,Yes,RVV-AE/AA-12 Adder,BVRAAM,New,,2011,Yes,2012 - 2013,400,Yes,,Probably $463 m deal
+29340,Russia,India,100,Yes,KAB-500/1500,Guided Bomb,New,,2011,Yes,2013 - 2013,50,Yes,,KAB-500 version
+4163,Russia,India,300,Yes,9M311/SA-19 Grison,SAM,New,,2005,Yes,2012 - 2013,300,Yes,,9M311 (SA-N-11) version; for Kashtan CIWS on 3 Talwar (Project-1135) frigates
+4274,Russia,India,100,Yes,9M317/SA-17 Grizzly,SAM,New,,2006,Yes,2012 - 2013,100,Yes,,9M317 (SA-N-12) version; for Talwar frigates
+24707,Russia,India,4000,Yes,R-73/AA-11 Archer,SRAAM,New,,1996,Yes,1997 - 2013,3500,Yes,,
+32338,Russia,India,400,Yes,PJ-10 BrahMos,SSM,New,,1998,,2006 - 2013,280,Yes,Yes,Version of Yakhont (SS-N-26); officially joint venture for development but mainly using Russian technology
+29261,Russia,India,1,,Gorshkov,Aircraft carrier,New,Yes,2004,,2013 - 2013,1,,,$2.3 b deal (originally $625-750 m deal but increased); ex-Russian ship rebuilt to conventional take off/landing (CTOL) carrier; Indian designation Vikramaditya; delivery delayed from 2008 to 2013
+36400,Russia,India,3,,Talwar,Frigate,New,,2006,,2012 - 2013,3,,,INS55 b ($1.2-1.9 b) deal; ordered due to problems with Indian production of major warships
+12697,Russia,Indonesia,6,,Su-30MK/Flanker,FGA aircraft,New,,2012,,2013 - 2013,6,,,$470 m deal; Su-30MK2 version
+14009,Russia,Indonesia,50,Yes,RVV-AE/AA-12 Adder,BVRAAM,New,,2008,Yes,2012 - 2013,35,Yes,,For Su-27 and Su-30 combat aircraft
+38209,Russia,Iran,2,Yes,Kasta-2E2,Air search radar,New,,2010,Yes,2013 - 2013,2,Yes,,
+25619,Russia,Iraq,6,Yes,Mi-24VM/Hind-E,Combat helicopter,New,Yes,2013,,2013 - 2013,4,Yes,,Mi-35 version
+24270,Russia,Kazakhstan,10,Yes,BMPT,AFSV,New,,2010,Yes,2011 - 2013,10,Yes,,
+28831,Russia,Libya,10,Yes,9P157-2,Tank destroyer,New,,2012,Yes,2013 - 2013,10,Yes,,
+28747,Russia,Libya,500,Yes,9M123/AT-15,Anti-tank missile,New,,2012,,2013 - 2013,500,Yes,,For 9P157 tank destroyer
+14013,Russia,Malaysia,35,,RVV-AE/AA-12 Adder,BVRAAM,New,,2012,,2012 - 2013,35,Yes,,$35 m deal
+25665,Russia,Myanmar,50,Yes,Mi-24P/Hind-F,Combat helicopter,Refurbished,Yes,2009,,2010 - 2013,18,Yes,,Probably second-hand but modernized before delivery; Mi-35P version
+2554,Russia,Myanmar,14,Yes,MiG-29/Fulcrum-A,Fighter aircraft,New,Yes,2009,,2011 - 2013,14,Yes,,Part of $570 m deal; incl 4 MiG-29UB
+9262,Russia,Myanmar,12,,Mi-2/Hoplite,Light helicopter,Refurbished,Yes,2010,Yes,2012 - 2013,12,Yes,,Probably second-hand but modernised before delivery
+21114,Russia,Myanmar,,Yes,Igla-1/SA-16 Gimlet,Portable SAM,New,,2000,Yes,2004 - 2013,1900,Yes,,Incl for MADV AD systems produced in Myanmar
+14222,Russia,Pakistan,200,Yes,RD-33,Turbofan,New,,2004,Yes,2007 - 2013,50,Yes,,RD-93 version; for JF-17 combat aircraft from China
+25661,Russia,Sudan,32,,Mi-24P/Hind-F,Combat helicopter,Refurbished,Yes,2009,,2011 - 2013,32,Yes,,Probably second-hand but modernized before delivery; probably incl Mi-24V version
+25681,Russia,Sudan,12,,Mi-24P/Hind-F,Combat helicopter,Refurbished,Yes,2011,,2013 - 2013,12,Yes,,Probably second-hand but modernized before delivery
+20268,Russia,Syria,36,Yes,96K9 Pantsyr-S1,Mobile AD system,New,,2006,Yes,2008 - 2013,36,Yes,,Part of $400-730 m deal; no. could be up to 50
+5915,Russia,Syria,8,Yes,9K40 Buk/SA-17,SAM system,New,,2007,,2010 - 2013,8,Yes,,
+21768,Russia,Syria,12,Yes,S-125 Pechora-2M,SAM system,New,Yes,2007,Yes,2011 - 2013,12,Yes,,$200 m deal; Syrian SA-3 SAM systems rebuilt to Pechora M2 version
+29344,Russia,Syria,100,Yes,KAB-500/1500,Guided Bomb,New,,2010,Yes,2012 - 2013,100,Yes,,
+4170,Russia,Syria,700,Yes,9M311/SA-19 Grison,SAM,New,,2006,Yes,2008 - 2013,700,Yes,,Part of $400 m deal; for Pantsyr AD systems
+4272,Russia,Syria,160,Yes,9M317/SA-17 Grizzly,SAM,New,,2007,,2010 - 2013,160,Yes,,
+30775,Russia,Turkmenistan,60,Yes,Kh-35 Uran/SS-N-25,Anti-ship missile,New,,2008,Yes,2011 - 2013,60,Yes,,$80-84 m deal; for Project-12418 (Tarantul) FAC
+30780,Russia,Turkmenistan,25,Yes,Kh-35 Uran/SS-N-25,Anti-ship missile,New,,2013,,2013 - 2013,10,Yes,,$30-40 m deal; delivery 2013-2014
+19427,Russia,Uganda,1000,,9M133 Kornet/AT-14,Anti-tank missile,New,,2010,,2012 - 2013,1000,Yes,,Kornet-E version
+20267,Russia,United Arab Emirates,50,,96K9 Pantsyr-S1,Mobile AD system,New,,2000,,2009 - 2013,50,Yes,,$800 m deal (incl development partly funded by UAE); first delivery delayed from 2003 to 2009
+4162,Russia,United Arab Emirates,1000,Yes,9M311/SA-19 Grison,SAM,New,,2000,,2009 - 2013,1000,Yes,,For 96K9 Pantsyr-S1 AD systems
+21771,Russia,Venezuela,11,Yes,S-125 Pechora-2M,SAM system,New,Yes,2008,Yes,2011 - 2013,9,Yes,,Ex-Russian S-125 (SA-3) SAM systems rebuilt to Pechora-2M; delivery 2011-2014
+5917,Russia,Venezuela,3,Yes,9K40 Buk/SA-17,SAM system,New,,2009,Yes,2013 - 2013,3,Yes,,
+24798,Russia,Venezuela,123,Yes,BMP-3,IFV,New,,2009,,2011 - 2013,123,Yes,,BMP-3M version; incl some BREM-L ARV version
+30196,Russia,Venezuela,114,Yes,BTR-80A,IFV,New,,2009,,2011 - 2013,114,Yes,,
+36942,Russia,Venezuela,92,,T-72M1,Tank,Refurbished,,2009,,2011 - 2013,92,Yes,,Ex-Russian; modernized to T-72M1M before delivery
+14976,Russia,Venezuela,48,Yes,2S19 MSTA-S 152mm,Self-propelled gun,New,Yes,2009,,2011 - 2013,48,Yes,,Possibly ex-Russian
+29405,Russia,Venezuela,12,Yes,BM-9A52 Smerch,Self-propelled MRL,New,,2009,Yes,2013 - 2013,12,Yes,,
+27661,Russia,Venezuela,1000,Yes,9M117/AT-10 Stabber,Anti-tank missile,New,,2009,Yes,2011 - 2013,1000,Yes,,For BMP-3 IFV
+8480,Russia,Venezuela,550,Yes,5V27/SA-3B Goa,SAM,Refurbished,Yes,2008,,2011 - 2013,450,Yes,,Ex-Russian; probably modernized before delivery
+4273,Russia,Venezuela,60,Yes,9M317/SA-17 Grizzly,SAM,New,,2009,Yes,2013 - 2013,60,Yes,,
+12518,Russia,Viet Nam,50,Yes,3M-54 Klub/SS-N-27,Anti-ship MI/SSM,New,,2009,Yes,2013 - 2013,10,Yes,,For Project-636 (Kilo) submarines
+30771,Russia,Viet Nam,400,Yes,Kh-35 Uran/SS-N-25,Anti-ship missile,New,,2004,,2008 - 2013,133,Yes,,For Project-11661 (Gepard) frigates and Project-1241 (Tarantul) FAC
+13670,Russia,Viet Nam,80,Yes,53-65,AS torpedo,New,,2009,Yes,2013 - 2013,15,Yes,,For Project-636 (Kilo) submarines
+6163,Russia,Viet Nam,80,,TEST-71,AS/ASW torpedo,New,,2009,Yes,2013 - 2013,15,Yes,,For Project-636 (Kilo) submarines
+21086,Russia,Viet Nam,400,Yes,Igla-1/SA-16 Gimlet,Portable SAM,New,,1996,Yes,1999 - 2013,390,Yes,,SA-N-10 version for BPS-500 (Ho-A) and Project-10412 (Svetlyak) patrol craft and probably Project-1241 (Tarantul) FAC
+22103,Russia,Viet Nam,6,,Project-636E/Kilo,Submarine,New,,2009,,2013 - 2013,1,,,$1.8-2.1 b deal; Project-636M version; Vietnamese designation Ha Noi; delivery 2013-2016
+16378,Serbia,Bangladesh,18,Yes,B-52 NORA 155mm,Self-propelled gun,New,Yes,2011,Yes,2013 - 2013,6,Yes,,
+23394,Singapore,United Arab Emirates,73,Yes,SRAMS 120mm,Mortar,New,,2011,,2013 - 2013,20,Yes,,Part of AED786 m ($214 m) deal; for use on Agrab-2 (RG-31) mortar carrier from South Africa
+15674,South Africa,Benin,10,,Casspir,APC,New,,2012,Yes,2013 - 2013,10,Yes,,Casspir-2000 or Casspir-NG version
+21452,South Africa,Equatorial Guinea,25,,Mamba,APC,New,,2012,,2013 - 2013,25,Yes,,Reva-3 and Reva-5 versions
+6092,South Africa,Finland,25,,RG-32 Scout,APV,New,,2012,,2013 - 2013,25,,,EUR12.5 m deal; RG-32M version
+1972,South Africa,Gabon,2,,MB-326GB,Trainer/combat ac,SecondHand,,2013,Yes,2013 - 2013,2,,,Ex-South African; MB-326M Impala version
+9729,South Africa,India,300,Yes,Casspir-6,APC,New,,2009,Yes,2011 - 2013,300,Yes,Yes,MPV-I version; incl production of components and final assembly in India
+6087,South Africa,Sweden,110,,RG-32 Scout,APV,New,,2012,,2012 - 2013,110,Yes,,GBP43 m deal; RG-32M version; Swedish designation Galten
+21453,South Africa,Thailand,120,Yes,Mamba,APC,New,,2010,Yes,2011 - 2013,120,Yes,,Reva-3 version
+30900,South Africa,United Arab Emirates,72,,RG-31 Nyala,APC,New,,2011,,2013 - 2013,20,Yes,,Part of AED786 m ($214 m) deal; mortar carrier version (with 120mm mortar from Singapore); UAE designation Agrab-2
+15675,South Africa,United Nations,15,Yes,Casspir,APC,New,,2012,Yes,2013 - 2013,15,Yes,,Casspir-2000 version
+30867,South Africa,Yemen,250,Yes,Qutaish-2,APV,New,,2008,Yes,2009 - 2013,210,Yes,Yes,Incl production of components and assembly in Yemen
+31688,Spain,Cameroon,1,,CN-235,Transport aircraft,New,,2012,,2013 - 2013,1,,,CN-235M-300 version
+34996,Spain,Colombia,1,,C-295,Transport aircraft,New,,2012,,2013 - 2013,1,,,
+34986,Spain,Egypt,3,,C-295,Transport aircraft,New,,2012,,2013 - 2013,3,Yes,,
+34975,Spain,Indonesia,9,,C-295,Transport aircraft,New,,2012,,2012 - 2013,5,,Yes,$325 m deal; Indonesian designation CN-295; delivery 2012-2014
+34989,Spain,Kazakhstan,2,,C-295,Transport aircraft,New,,2012,,2013 - 2013,2,,,
+18188,Spain,Mozambique,1,,Conejera,Patrol craft,Refurbished,,2011,,2013 - 2013,1,,,Ex-Spanish; aid; modernized before delivery; Mozambique designation Pebane
+34991,Spain,Oman,5,,C-295,Transport aircraft,New,,2012,,2013 - 2013,2,Yes,,
+4093,Spain,Pakistan,2,,ATR-72,Transport aircraft,SecondHand,,2012,,2013 - 2013,2,,,Second-hand
+34992,Spain,Poland,5,,C-295,Transport aircraft,New,,2012,,2012 - 2013,5,,,PLN876 m ($262 m) deal
+34397,Spain,Turkey,6,,CN-235MP,ASW aircraft,New,,1998,,2012 - 2013,6,Yes,Yes,'Meltem-2' programme; CN-235D/K (CN-235MP Persuader) version; assembled from kits in Turkey; aircraft delivered 2001-2002 but ASW and MP systems fitted 2012-2013
+34416,Spain,Turkey,3,,CN-235MP,MP aircraft,New,,1998,,2013 - 2013,3,Yes,Yes,'Meltem-1' and 'Meltem-2' programme; assembled from kits in Turkey; aircraft delivered 2002 but MP systems fitted 2013; for coast guard
+37509,Spain,United Arab Emirates,3,,A-330 MRTT,Tanker/transport ac,New,,2008,,2013 - 2013,3,,,EUR730 m deal
+34403,Spain,United States,36,Yes,CN-235MP,MP aircraft,New,,2004,,2007 - 2013,15,Yes,Yes,Part of coast guard 'Deepwater-2000' programme; CN-235M-300M/C-235ER version; US designation HC-144; incl production of components and assembly in USA; delivery 2006-2020; 36 selected but not yet all ordered by end-2013
+5518,Spain,Uruguay,60,,ECIA 120mm,Mortar,SecondHand,,2012,Yes,2013 - 2013,60,Yes,,Second-hand
+31687,Spain,Yemen,1,,CN-235,Transport aircraft,New,,2011,,2013 - 2013,1,,,Financed by USA
+24512,Sweden,Australia,3,,Giraffe AMB,Air search radar,New,,2010,,2012 - 2013,3,,,SEK550 m ($86 m) 'Land-19 Phase-7A' deal (incl 1 on lease from 2011 until delivery of 3 ordered); for use in Afghanistan
+29895,Sweden,Finland,100,Yes,RBS-70 Mk-3 Bolide,Portable SAM,New,,2009,Yes,2013 - 2013,100,Yes,,EUR26 m deal
+35016,Sweden,France,53,,BvS-10,APC,New,,2009,,2011 - 2013,53,,,'VHM' programme; BvS-10 Mk-2 version; incl CP and mortar carrier versions; option on 76 more
+9614,Sweden,Germany,30,Yes,RBS-15 Mk-3,Anti-ship MI/SSM,New,,2005,,2011 - 2013,30,Yes,Yes,SEK350 m ($46 m) deal (offsets incl production of components and assembly in FRG); for Braunschweig (K-130) frigates
+18258,Sweden,Italy,5,,ARTHUR,Arty locating radar,New,,2009,,2010 - 2013,5,Yes,,EUR46 m deal
+27642,Sweden,"Korea, South",24,,CEROS-200,Fire control radar,New,,2005,,2008 - 2013,12,Yes,Yes,For 24 Gumdoksuri (PKX or PKG-A) FAC produced in South Korea
+27643,Sweden,Norway,6,,CEROS-200,Fire control radar,New,,2003,,2010 - 2013,6,,,SEK155 m ($16 m) deal; for 6 Skjold FAC produced in Norway
+14999,Sweden,Pakistan,150,Yes,MFI-17 Supporter,Trainer aircraft,New,,2001,Yes,2001 - 2013,136,Yes,Yes,Super Mushshak version
+29865,Sweden,Pakistan,,,RBS-70,Portable SAM,New,,1985,Yes,1988 - 2013,1250,Yes,Yes,Probably incl RBS-70 Mk-3 version
+5362,Sweden,Poland,645,Yes,DI-12,Diesel engine (AV),New,,2003,,2004 - 2013,596,Yes,,For 645 AMV APC and IFV from Finland
+9616,Sweden,Poland,36,,RBS-15 Mk-3,Anti-ship MI/SSM,New,,2006,,2011 - 2013,36,Yes,,Part of PLN560 m ($190 m) deal; from FRG production line; for modernized Orkan corvettes
+12268,Sweden,Saudi Arabia,2,Yes,Saab-2000 AEW,AEW&C aircraft,New,,2010,,2013 - 2013,2,Yes,,SEK4.5 b ($670 m) deal; second-hand Saab-2000 transport aircraft modified to AEW aircraft
+38103,Sweden,Spain,1,Yes,Skeldar,UAV,New,,2013,,2013 - 2013,1,Yes,,
+34299,Sweden,Thailand,6,,JAS-39C Gripen,FGA aircraft,New,,2010,,2013 - 2013,6,,,SEK2.2 b ($320 m) deal; JAS-39C version
+18390,Sweden,Thailand,25,Yes,RBS-15M,Anti-ship missile,New,,2010,,2012 - 2013,25,Yes,,RBS-15F version; for JAS-39 combat aircraft
+24504,Sweden,United Arab Emirates,6,,Giraffe AMB,Air search radar,New,,2004,,2011 - 2013,3,Yes,,For 6 Baynunah corvettes from France
+37891,Sweden,United Arab Emirates,12,,Ghannatha,FAC,New,,2009,,2013 - 2013,4,Yes,Yes,Part of AED930 m ($252 m) deal; incl 9 produced in UAE; UAE designation Al Bazam
+24509,Sweden,United Kingdom,5,,Giraffe AMB,Air search radar,New,,2008,,2012 - 2013,5,Yes,,GBP30 m ($60 m) deal; part of 'LEAPP' programme
+18260,Sweden,Unknown country,2,Yes,ARTHUR,Arty locating radar,New,,2010,,2013 - 2013,2,Yes,,
+9920,Switzerland,Afghanistan,18,,PC-12,Light transport ac,New,,2012,,2013 - 2013,3,Yes,,$218 m deal; ordered via USA and possibly modified in USA for reconnaissance role before delivery; delivery 2013-2015
+36980,Switzerland,Belgium,242,,Piranha-3,APC,New,,2006,,2008 - 2013,183,Yes,Yes,"EUR700-800 m 'AIV' programme (offsets incl production of components and assembly in Belgium); incl 32 IFV, 40 AFSV, 24 command post, 12 ambulance, 17 ARV and 18 AEV version; delivery 2008-2015"
+25447,Switzerland,Botswana,5,,PC-7 Turbo Trainer,Trainer aircraft,New,,2011,,2013 - 2013,5,,,CHF40 m ($46 m) deal; PC-7 Mk-2 version; delivery 2013
+36997,Switzerland,Brazil,18,,Piranha-3,APC,New,,2008,,2010 - 2013,14,Yes,,"Piranha-3C version; incl 2 command, 1 ARV and 1 ambulance version; possibly incl production of components in Brazil; delivery 2010-2014"
+34780,Switzerland,China,,,GDF 35mm,AA gun,New,,1995,Yes,1997 - 2013,320,Yes,Yes,Chinese designation Type-90 and Type-99
+8135,Switzerland,China,,,Skyguard,Fire control radar,New,,1995,Yes,1997 - 2013,160,Yes,Yes,For use with GDF 35mm (Type-90) AA guns and possibly HQ-7 (FM-80) SAM systems
+25446,Switzerland,India,75,,PC-7 Turbo Trainer,Trainer aircraft,New,,2012,,2013 - 2013,30,Yes,,PC-7 Mk-2 version; incl assembly from kits in India; delivery 2013-2015
+36994,Switzerland,Romania,31,,Piranha-3,APC,New,,2007,,2007 - 2013,31,Yes,,EUR47 m deal; Piranha-3C version; for use in Afghanistan and Iraq
+24751,Switzerland,Saudi Arabia,55,,PC-21,Trainer aircraft,New,,2012,,2013 - 2013,2,Yes,,Part of GBP1.6 b deal; ordered via UK company; delivery 2013-2016
+36995,Switzerland,Spain,21,,Piranha-3,APC,New,,2007,,2010 - 2013,18,Yes,,Piranha-3C version; incl 4 IFV version; delivery 2010-2014
+3475,Switzerland,United States,724,,PC-9,Trainer aircraft,New,,1996,,1999 - 2013,709,Yes,Yes,$7 b 'JPATS' programme (incl $4.7 b for aircraft only); US designation T-6A and T-6B Texan-2; delivery 1999-2017
+15063,Turkey,Azerbaijan,30,Yes,Roketsan 107mm,Self-propelled MRL,New,,2010,Yes,2011 - 2013,30,Yes,,Part of $244 m deal
+13097,Turkey,Azerbaijan,40,Yes,T-122 122mm,Self-propelled MRL,New,,2010,,2013 - 2013,40,Yes,,Part of $244 m deal
+29644,Turkey,Azerbaijan,20,Yes,TR-300 300mm,Self-propelled MRL,New,,2010,,2013 - 2013,20,Yes,,Part of $244 m deal
+35884,Turkey,Bangladesh,10,Yes,Cobra,APV,New,,2012,Yes,2013 - 2013,10,Yes,,
+35881,Turkey,Kazakhstan,40,Yes,Cobra,APV,New,,2012,,2012 - 2013,22,Yes,,
+36493,Turkey,Pakistan,,,Panter 155mm,Towed gun,New,,2009,Yes,2011 - 2013,60,Yes,Yes,
+37890,Turkey,Qatar,3,,MRTP-33,Patrol craft,New,,2012,,2013 - 2013,1,,,MRTP-34 version; delivery by 2014
+19801,Turkey,United Arab Emirates,,,CIRIT,ASM,New,,2013,Yes,2013 - 2013,100,Yes,,AED720m ($196 m) deal
+38131,Ukraine,Azerbaijan,1,Yes,80K6M,Air search radar,New,,2012,Yes,2013 - 2013,1,Yes,,
+27666,Ukraine,Bangladesh,47,Yes,6TD,Diesel engine,New,,2011,Yes,2012 - 2013,47,Yes,,For 44 Type-90-2 (MBT-2000) tanks and 3 Type-654 ARV from China
+27667,Ukraine,China,50,,6TD,Diesel engine,New,,2011,,2013 - 2013,25,Yes,,Probably for tank produced in China
+29506,Ukraine,China,4,,Zubr/Pomornik,ACV/landing craft,New,,2009,,2013 - 2013,1,,Yes,$315-319 m deal; incl 2 produced in China; Project-958 Bizon version; delivery probably by 2015
+206,Ukraine,Egypt,200,,OT-62,IFV,New,Yes,2009,Yes,2011 - 2013,53,Yes,Yes,Egyptian OT-62 APC rebuilt to IFV; possibly incl some mortar carrier version; delivery probably 2011-2016
+34516,Ukraine,Egypt,2000,,R-2,Anti-tank missile,New,,2009,Yes,2011 - 2013,550,Yes,,For modernized OT-62 IFV
+1262,Ukraine,Estonia,2,,L-39C Albatros,Trainer aircraft,SecondHand,,2013,,2013 - 2013,2,,,Ex-Ukrainian; leased via Latvian company
+3296,Ukraine,Ethiopia,128,Yes,T-72B,Tank,Refurbished,,2011,,2012 - 2013,128,Yes,,Second-hand but modernized to T-72UA1 or T-72E1; $100 m deal
+12437,Ukraine,Ethiopia,1250,Yes,Combat,Anti-tank missile,New,,2011,,2012 - 2013,1250,Yes,,For T-72 tanks; designation uncertain (reported as guided shell)
+28555,Ukraine,India,6,,DS-71,Gas turbine,New,,2006,,2012 - 2013,6,,,Part of probably $30 m deal; for 3 Talwar frigates from Russia
+7889,Ukraine,India,6,,DT-59,Gas turbine,New,,2006,,2012 - 2013,6,,,Part of probably $30 m deal; for 3 Talwar frigates from Russia
+1310,Ukraine,India,100,,AI-20,Turboprop,New,,2009,,2011 - 2013,60,Yes,,AI-20D-5M version; for modernization of An-32 transport aircraft to An-32RE
+23986,Ukraine,India,500,Yes,R-27/AA-10 Alamo,BVRAAM,New,,2012,,2013 - 2013,250,Yes,,$246 m deal
+12404,Ukraine,Kazakhstan,2,,An-74/Coaler-B,Transport aircraft,New,Yes,2012,,2013 - 2013,2,Yes,,An-74TK-200 version
+9862,Ukraine,Mozambique,2,Yes,An-26/Curl,Transport aircraft,SecondHand,,2013,,2013 - 2013,2,Yes,,Second-hand; An-26B-100 version
+36232,Ukraine,Myanmar,50,Yes,AI-25,Turbofan,New,,2009,,2011 - 2013,50,Yes,,For 50 K-8 trainer/combat aircraft from China; possibly WS-11 version from Chinese production line
+294,Ukraine,Niger,2,Yes,Su-25/Frogfoot-A,Ground attack ac,SecondHand,Yes,2012,,2013 - 2013,2,,,Second-hand
+37280,Ukraine,Nigeria,4,Yes,BTR-3,APC,New,,2012,Yes,2013 - 2013,4,Yes,,BTR-3E version; for police
+27665,Ukraine,Pakistan,315,,6TD,Diesel engine,New,,2002,,2004 - 2013,315,Yes,,$150 m deal; for MBT-2000 (Type-90-2 or Al Khalid) tanks from China
+27669,Ukraine,Pakistan,110,,6TD,Diesel engine,New,,2013,,2013 - 2013,30,Yes,,$50 m deal; probably for MBT-2000 (Type-90-2 or Al Khalid) tanks from China
+19392,Ukraine,Russia,19,,An-140,Transport aircraft,New,,2011,,2012 - 2013,13,Yes,Yes,An-140-100 version
+30920,Ukraine,Russia,15,,An-148,Transport aircraft,New,,2013,,2013 - 2013,1,,Yes,RUB18 b deal; An-148-100E version; delivery 2013-2017
+36187,Ukraine,Russia,264,Yes,AI-222,Turbofan,New,,2006,,2009 - 2013,84,Yes,Yes,For 132 Yak-130 trainer/combat aircraft produced in Russia 2009-2017
+15575,Ukraine,Rwanda,5,Yes,BAU-32x2,IFV turret,New,,2012,Yes,2013 - 2013,5,Yes,,For Ratel-23 IFV from unknown supplier
+22719,Ukraine,Thailand,121,,BTR-3U Guardian,IFV,New,,2011,,2012 - 2013,51,Yes,,$170 m deal; BTR-3E1 version; incl command post and ARV versions; delivery 2012-2015
+34520,Ukraine,Thailand,1500,Yes,R-2,Anti-tank missile,New,,2011,Yes,2012 - 2013,500,Yes,,For BTR-3E IFV
+2557,Ukraine,Venezuela,4,,DSL-5612,Landing craft,New,,2009,,2012 - 2013,4,Yes,,From Cuban production line
+9157,Ukraine,Viet Nam,4,,Kolchuga,Air search system,New,,2009,Yes,2012 - 2013,4,Yes,,$54 m deal
+13772,United Arab Emirates,Jordan,6,,AT-802U,Ground attack ac,New,Yes,2013,,2013 - 2013,6,Yes,,Ex-UAE (but maximum 2-3 years old); aid; delivered without armament
+19779,United Arab Emirates,Pakistan,2,,Hawker-4000,Light transport ac,SecondHand,Yes,2011,Yes,2013 - 2013,2,Yes,,Probably second-hand; possibly for SIGINT
+4854,United Kingdom,Australia,19,,UFH/M-777 155mm,Towed gun,New,,2012,,2013 - 2013,9,Yes,,$70 m deal; ordered via USA; from US production line; M-777A2 version; delivery 2013-2014
+30021,United Kingdom,Brazil,3,,VT-90,OPV,New,,2011,,2012 - 2013,3,,,GBP133 m (USD208 m) deal (originally produced for Trinidad and Tobago but cancelled 2010)
+8835,United Kingdom,China,,,Spey,Turbofan,New,Yes,1975,Yes,1998 - 2013,250,Yes,Yes,For JH-7 combat aircraft produced in China
+34194,United Kingdom,India,57,,Hawk-100,Trainer/combat ac,New,,2010,,2013 - 2013,10,Yes,Yes,GBP700-735 m ($1.1 b) deal; Hawk-132 version; delivery 2013-2015
+19597,United Kingdom,Oman,3,,Al Shamikh,Frigate,New,,2007,,2013 - 2013,2,,,$700 m 'Khareef' programme; delivery 2013-2014
+4131,United Kingdom,Poland,2,,AS-90M turret,Self-propelled gun turret,New,,1999,,2013 - 2013,2,Yes,,For 2 Krab self-propelled guns produced in Poland
+4132,United Kingdom,Poland,70,Yes,AS-90M turret,Self-propelled gun turret,New,,2008,,2013 - 2013,6,Yes,Yes,For 70 Krab self-propelled guns produced in Poland
+36731,United Kingdom,Saudi Arabia,72,,Typhoon,FGA aircraft,New,,2007,,2009 - 2013,34,,,GBP4.4 b deal (part of up to GBP20 b 'Project Salam'); Typhoon F-2 (Typhoon Tranche-2) version
+18196,United Kingdom,Saudi Arabia,1000,Yes,Brimstone,ASM,New,,2008,Yes,2011 - 2013,560,Yes,,For Tornado combat aircraft
+5816,United Kingdom,Saudi Arabia,350,Yes,Storm Shadow/SCALP,ASM,New,,2009,Yes,2011 - 2013,350,Yes,,For modernized Tornado combat aircraft
+30791,United Kingdom,Somalia,25,Yes,AT-105 Saxon,APC,SecondHand,,2012,Yes,2013 - 2013,25,Yes,,Ex-UK; aid; Saxon Patrol version; delivered via Djibouti
+36430,United Kingdom,Thailand,80,Yes,Starstreak,Portable SAM,New,,2012,,2013 - 2013,80,Yes,,THB378 m deal (incl 8 launchers)
+37892,United Kingdom,Thailand,1,,BVT-90,OPV,New,,2009,,2013 - 2013,1,,Yes,THB3 b (USD85 m) deal; Thai designation Krabi
+19433,United Kingdom,United Arab Emirates,6,,Trent,Turbofan,New,,2008,,2013 - 2013,6,,,For 3 A-330 MRTT tanker/transport aircraft from Spain; Trent-772B version
+15847,United Kingdom,United Arab Emirates,3,,Air refuel system,Air refuel system,New,,2008,,2013 - 2013,3,,,For 3 A-330 MRTT tanker/transport aircraft from Spain
+4847,United Kingdom,United States,1026,Yes,UFH/M-777 155mm,Towed gun,New,,2000,Yes,2002 - 2013,1026,Yes,Yes,US designation M-777
+8971,United Kingdom,United States,275,Yes,L-118 105mm,Towed gun,New,,2005,Yes,2006 - 2013,275,Yes,Yes,L-119 version; US designation M-119
+198,United States,Afghanistan,4,,C-130H Hercules,Transport aircraft,SecondHand,,2012,Yes,2013 - 2013,2,,,Second-hand; aid; delivery 2013-2014
+38099,United States,Afghanistan,200,,ASV-150/M-1117,APC,New,,2012,,2012 - 2013,150,Yes,,$79 m deal; delivery probably by 2014
+19578,United States,Afghanistan,4002,,HMMWV Up-Armoured,APV,New,,2010,,2011 - 2013,4002,Yes,,Part of $1 b deal; M-1152A1B2 version; incl for police; delivery by 2014
+14804,United States,Angola,6,,Cessna-172/T-41,Trainer/light ac,New,,2012,Yes,2013 - 2013,6,,,
+18019,United States,Argentina,36,Yes,Bell-205/UH-1 Huey-2,Helicopter,New,Yes,2006,Yes,2009 - 2013,34,Yes,,Argentinian UH-1H rebuilt to Huey-2; assembled in Argentina (possibly incl production of components in Argentina)
+13944,United States,Argentina,1,,Bell-412,Helicopter,New,,2011,Yes,2013 - 2013,1,,,Bell-412EP version; from Canadian production line
+17975,United States,Argentina,40,Yes,TFE-731,Turbofan,New,,2005,Yes,2012 - 2013,9,Yes,,For 40 AT-63 (Phase-3) trainer/combat aircraft produced in Argentina (incl modernization of AT-63); TFE-731-40R version
+36849,United States,Australia,24,,MH-60R Seahawk,ASW helicopter,New,,2011,,2013 - 2013,2,,,AUD2.6 b ($2.5 b) 'Project Air-9000 Phase-8' ($1.5 b offsets); delivery 2013-2016
+27068,United States,Australia,10,Yes,RQ-7 Shadow-200,UAV,New,,2012,,2013 - 2013,5,Yes,,$40 m deal
+14264,United States,Australia,260,Yes,AGM-158A JASSM,ASM,New,,2006,Yes,2011 - 2013,260,Yes,,AUD350-450 m ($270-350 m) 'Project Air-5418'; for F/A-18 combat aircraft
+23405,United States,Australia,200,Yes,Mk-54 MAKO,ASW torpedo,New,,2012,,2013 - 2013,10,Yes,,For MH-60R helicopters
+24203,United States,Australia,600,Yes,RIM-162 ESSM,SAM,New,,2002,,2003 - 2013,330,Yes,Yes,For MEKO-200 (Anzac) and modernized Perry (Adelaide) frigates; incl production of components in Australia (as part of NATO Sea Sparrow Consortium)
+18086,United States,Australia,175,Yes,Standard Missile-2MR,SAM,New,,2005,Yes,2008 - 2013,175,Yes,,'Project Sea 1390-4B'; SM-2 Block-3A version; for modernized Perry (Adelaide) frigates
+35957,United States,Bahrain,25,,AIM-120C AMRAAM,BVRAAM,New,,2010,Yes,2013 - 2013,10,Yes,,AIM-120C-7 version
+26230,United States,Bahrain,30,Yes,MGM-140B ATACMS,SSM,New,,2011,,2013 - 2013,30,Yes,,$70 m deal; ATACMS Block-1A version
+23778,United States,Bangladesh,4,,TPE-331,Turboprop,New,,2011,,2013 - 2013,4,,,For 2 Do-228 MP aircraft from Germany
+8996,United States,Bangladesh,1,,Hamilton,OPV,SecondHand,,2013,,2013 - 2013,1,,,Second-hand; aid (Bangladesh pays $8.8 m for overhaul and training); Bangladeshi designation Somudra Joy
+38143,United States,Bolivia,2,,Foxtrot-4,Light aircraft,New,,2012,Yes,2013 - 2013,2,,,For training; assembled from kits in Bolivia
+38142,United States,Bolivia,1,Yes,Tango-2,Light aircraft,New,,2012,Yes,2013 - 2013,1,,,Assembled from kit in Bolivia
+31725,United States,Brazil,9,,P-3A Orion,ASW aircraft,SecondHand,,2002,,2011 - 2013,7,Yes,,Second-hand; $10 m deal (part of $425 m 'P-X' programme incl modernization of 8 in Spain to P-3AM); incl 1 for training (not incl 3 more for spares only); delivery 2011-2014
+29205,United States,Brazil,4,,S-70B/SH-60B Seahawk,ASW helicopter,New,,2009,,2012 - 2013,4,Yes,,$164 m deal; Brazilian designation MH-16
+4979,United States,Brazil,30,,C-7,Diesel engine,New,,2008,,2013 - 2013,15,Yes,,For modernization of 30 M-113A1 to M-113MB1
+37628,United States,Brazil,18,Yes,C-9,Diesel engine,New,,2008,,2010 - 2013,14,Yes,,For 18 Piranha-3 APC from Switzerland
+17851,United States,Brazil,150,Yes,6V-53,Diesel engine,New,,2010,Yes,2013 - 2013,2,Yes,,For modernization of 150 M-113B to M-113BR (M-113A2 Mk-1)
+38075,United States,Brunei Darussalam,12,,S-70/UH-60L,Helicopter,New,,2011,,2013 - 2013,4,,,S-70i version; from Polish production line; delivery 2013-2015
+7120,United States,Cameroon,2,Yes,CT-7,Turboprop,New,,2012,,2013 - 2013,2,,,For 1 CN-235 transport aircraft from Spain
+34931,United States,Canada,15,,CH-47F Chinook,Helicopter,New,,2009,,2013 - 2013,7,Yes,,CAD1.4 b ($1.4 b) deal (offsets 100%); delivery 2013-2014
+33598,United States,Canada,1350,Yes,Paveway,Guided bomb,New,,2011,,2012 - 2013,1000,Yes,,
+9128,United States,Chad,4,,AE-2100,Turboprop,New,,2012,,2013 - 2013,2,Yes,,For 2 C-27J transport aircraft from Italy
+37308,United States,Chile,3,,SR-22,Light aircraft,New,,2012,Yes,2013 - 2013,3,,,
+17597,United States,Chile,6,,T-35 Pillan,Trainer aircraft,New,,2011,Yes,2013 - 2013,6,Yes,Yes,
+35958,United States,Chile,100,Yes,AIM-120C AMRAAM,BVRAAM,New,,2010,Yes,2013 - 2013,25,Yes,,AIM-120C-7 version
+35136,United States,Chile,6,,AN/MPQ-64,Air search radar,New,,2011,,2013 - 2013,2,Yes,,
+18031,United States,Colombia,12,,Bell-205/UH-1 Huey-2,Helicopter,New,Yes,2011,,2013 - 2013,1,Yes,,Ex-US UH-1H rebuilt to UH-1H-2
+13950,United States,Colombia,4,,Bell-412,Helicopter,New,,2012,,2013 - 2013,2,,,From Canadian production line; delivery probably 2013-2014
+38078,United States,Colombia,5,,S-70/UH-60L,Helicopter,New,,2012,,2013 - 2013,5,,,$87 m deal; S-70i version; from Polish production line
+38088,United States,Colombia,2,,S-70/UH-60L,Helicopter,New,,2013,,2013 - 2013,2,,,S-70i version; from Polish production line
+27373,United States,Colombia,25,,Legacy,Light aircraft,New,,2009,,2010 - 2013,25,Yes,,$6.5-10 m deal; Synergy-FG or Legacy-FG version; assembled in Colombia; for training; Colombian designation T-90 Calima
+24671,United States,Colombia,20,,Bell-206/OH-58,Light helicopter,SecondHand,,2009,Yes,2010 - 2013,20,Yes,,Ex-US; 'Plan Colombia' aid; OH-58A version
+24682,United States,Colombia,11,Yes,Bell-206/OH-58,Light helicopter,SecondHand,,2012,Yes,2013 - 2013,4,Yes,,Second-hand; aid; OH-58A version; for training
+36169,United States,Colombia,1,Yes,Cessna-208 Caravan,Light transport ac,New,,2012,Yes,2013 - 2013,1,Yes,,Grand Caravan-EX version
+36174,United States,Colombia,2,,Cessna-208 Caravan,Light transport ac,New,Yes,2012,Yes,2013 - 2013,2,,,Possibly ex-US; Cessna-208B version
+29361,United States,Colombia,2,,Boeing-737 Classic,Transport aircraft,SecondHand,,2012,,2013 - 2013,2,Yes,,Second-hand; Boeing-737-300F version
+22563,United States,Colombia,6,,ScanEagle,UAV,New,,2013,Yes,2013 - 2013,6,,,Aid
+33604,United States,Colombia,80,Yes,Paveway,Guided bomb,New,,2011,,2013 - 2013,80,Yes,,Paveway-2 version
+13760,United States,Egypt,20,,F-16C Block-50/52,FGA aircraft,New,,2010,,2013 - 2013,8,,,Part of $3.2 b 'Peace Vector-7' deal; F-16C Block-52 version; incl 4 F-16D
+29780,United States,Egypt,125,,M-1A1 Abrams,Tank,New,,2008,,2009 - 2013,125,Yes,Yes,
+33966,United States,Egypt,139,,RIM-116A RAM,SAM,New,,2005,,2013 - 2013,35,Yes,,Part of $25 m deal; for Ambassador-4 corvettes; RIM-116B Block-1A version
+36116,United States,Egypt,1,,DB-110,Aircraft recce system,New,,2010,,2013 - 2013,1,Yes,,$11 m deal; for use on F-16C Block-52 combat aircraft
+1313,United States,Egypt,3,,Ambassador-4,Corvette,New,,2006,,2013 - 2013,1,Yes,,$1 b deal
+35930,United States,Finland,300,Yes,AIM-120C AMRAAM,BVRAAM,New,,2008,,2013 - 2013,50,Yes,,$435 m deal; AIM-120C-7 version
+35135,United States,Finland,12,,AN/MPQ-64,Air search radar,New,,2009,,2013 - 2013,2,Yes,,For NASAMS-2 SAM systems from Norway
+14562,United States,Finland,1,,SIGINT system,SIGINT system,New,,2010,,2013 - 2013,1,,,$100 m deal; for modification of 1 C-295 transport aircraft
+36103,United States,France,12,,MQ-9 Reaper,UAV/UCAV,New,,2013,,2013 - 2013,2,,,Delivery 2013-2019
+17516,United States,France,53,Yes,Cummins-6V,Diesel engine,New,,2009,,2011 - 2013,53,Yes,,For 53 BvS-10 APC from Sweden
+23905,United States,France,230,Yes,AGM-114K HELLFIRE,Anti-tank missile,New,,2007,,2011 - 2013,230,Yes,,For EC-665 combat helicopter
+33569,United States,France,1000,Yes,Paveway,Guided bomb,New,,2008,,2010 - 2013,700,Yes,,$22 m deal; Paveway-2 and Enhanced Paveway-2 versions; delivery 2010-2015
+37190,United States,France,1020,Yes,GMLRS,Guided rocket,New,,2007,Yes,2010 - 2013,815,Yes,Yes,Incl production of components in France; 12.5% of development financed by France; for use with MLRS MRL
+10371,United States,Germany,1,,RQ-4A Global Hawk,UAV,New,,2007,,2013 - 2013,1,Yes,Yes,For SIGINT; RQ-4E Euro Hawk version (with German sensors); originally 5 ordered but 4 cancelled 2013
+37189,United States,Germany,1890,Yes,GMLRS,Guided rocket,New,,2007,Yes,2010 - 2013,1350,Yes,Yes,Incl production of components in FRG; 12.5% of development financed by FRG; for use with MLRS MRL
+24211,United States,Germany,275,Yes,RIM-162 ESSM,SAM,New,,2002,Yes,2004 - 2013,275,Yes,Yes,For Sachsen (F-124/Type-124) frigates; incl production of components in FRG
+24210,United States,Greece,100,Yes,RIM-162 ESSM,SAM,New,,2005,,2008 - 2013,100,Yes,,For modernized MEKO-200 (Hydra) frigates
+36726,United States,Hungary,12,,MaxxPro,APC,SecondHand,,2013,,2013 - 2013,12,,,Second-hand
+37215,United States,India,8,,P-8A Poseidon,ASW aircraft,New,,2008,Yes,2012 - 2013,3,,Yes,$2 b deal (offsets 30% incl production of components in India); P-8I version; delivery 2012-2015
+6819,United States,India,10,,C-17A Globemaster-3,Heavy transport ac,New,,2011,,2013 - 2013,5,,,$4.1 b deal (offsets $1.1 b); delivery 2013-2014
+18175,United States,India,20,Yes,RGM-84L Harpoon-2,Anti-ship MI/SSM,New,,2010,,2013 - 2013,12,Yes,,$170 m deal; AGM-84L version
+18180,United States,India,21,Yes,RGM-84L Harpoon-2,Anti-ship MI/SSM,New,,2012,,2013 - 2013,5,Yes,,AGM-84L version; for use on P-8I ASW aircraft
+23406,United States,India,32,Yes,Mk-54 MAKO,ASW torpedo,New,,2011,Yes,2013 - 2013,10,Yes,,$86 m deal; for use on P-8I ASW aircraft
+33683,United States,India,512,,CBU-97 SFW,Guided bomb,New,,2010,,2013 - 2013,50,Yes,,$258 m deal; CBU-105 version
+13934,United States,Indonesia,25,Yes,Bell-412,Helicopter,New,,2010,,2012 - 2013,9,Yes,,Bell-412EP version; delivery 2012-2014
+27147,United States,Indonesia,16,Yes,F404,Turbofan,New,,2011,,2013 - 2013,16,Yes,,For 16 T-50 trainer/combat aircraft from South Korea
+7087,United States,Indonesia,76,Yes,CT-7,Turboprop,New,,1990,Yes,1993 - 2013,48,Yes,,For 38 CN-235 transport and CN-235MPA MP aircraft produced in Indonesia; CT-7-9C3 version
+34284,United States,Iraq,8,,Avenger,Mobile SAM system,New,,2012,Yes,2013 - 2013,3,Yes,,Part of $105 m deal; 'ISFF' aid
+27682,United States,Iraq,24,,Bell-407,Light helicopter,New,,2009,,2012 - 2013,24,,,$60 m deal; armed version; option on 26 more
+16871,United States,Iraq,6,,C-130J-30 Hercules,Transport aircraft,New,,2009,,2012 - 2013,6,,,$293 m deal
+38095,United States,Iraq,80,,ASV-150/M-1117,APC,New,,2010,,2011 - 2013,80,Yes,,$85 m deal; incl 8 command post version
+5338,United States,Iraq,120,,M-198 155mm,Towed gun,SecondHand,,2010,,2011 - 2013,120,Yes,,Second-hand; aid
+21167,United States,Iraq,200,Yes,AGM-114L HELLFIRE,Anti-tank missile,New,,2008,,2012 - 2013,200,Yes,,For Bell-407 helicopters
+21173,United States,Iraq,175,Yes,AGM-114L HELLFIRE,Anti-tank missile,New,,2013,Yes,2013 - 2013,75,,,
+834,United States,Iraq,1,,AN/TPS-77,Air search radar,New,,2011,,2013 - 2013,1,Yes,,$26 m deal; designation uncertain
+35138,United States,Iraq,13,Yes,AN/MPQ-64,Air search radar,New,,2013,Yes,2013 - 2013,1,Yes,,
+34216,United States,Israel,3,,C-130J Hercules,Transport aircraft,New,,2010,,2013 - 2013,1,Yes,,$250 m deal; Israeli designation Samson; delivery 2013-2014
+22557,United States,Italy,10,Yes,ScanEagle,UAV,New,,2011,Yes,2013 - 2013,10,Yes,,
+976,United States,Italy,14,Yes,LM-2500,Gas turbine,New,,2000,Yes,2008 - 2013,9,,Yes,"For 1 Cavour aircraft carrier, 2 Doria (Horizon) destroyers and 10 Bergamini (FREMM) frigates produced in Italy"
+12611,United States,Italy,12,Yes,F-124,Turbofan,New,,2009,,2011 - 2013,6,Yes,,For 6 M-346 trainer aircraft produced in Italy
+37188,United States,Italy,864,Yes,GMLRS,Guided rocket,New,,2012,,2013 - 2013,50,Yes,Yes,For use with MLRS MRL; incl production of components in Italy; 12.5% of development financed by Italy; delivery from 2013
+29208,United States,Japan,64,Yes,S-70B/SH-60B Seahawk,ASW helicopter,New,,1997,,2002 - 2013,47,Yes,Yes,SH-60K version
+35849,United States,Japan,13,Yes,AH-64D Apache,Combat helicopter,New,,2001,,2006 - 2013,12,Yes,Yes,'AH-X' programme; AH-64DJP version; most assembled in Japan; original plan for up to 62 reduced to 13 for financial reasons
+10079,United States,Japan,92,Yes,CH-47D Chinook,Helicopter,New,,1984,,1986 - 2013,85,Yes,Yes,CH-47J and CH-47JA version; incl 85 produced in Japan
+37986,United States,Japan,67,Yes,S-70/UH-60L,Helicopter,New,,1988,,1990 - 2013,67,Yes,Yes,UH-60J (S-70A-12) version
+37173,United States,Japan,28,,TH-28/480,Light helicopter,New,,2012,,2012 - 2013,18,Yes,,Enstom-480B version; Japanese designation TH-480B; for training; delivery 2012-2014
+22552,United States,Japan,2,Yes,ScanEagle,UAV,New,,2012,,2013 - 2013,2,Yes,,
+17659,United States,Japan,80,Yes,AN/APG-63,Combat ac radar,New,,2004,Yes,2007 - 2013,60,Yes,Yes,For modernization of F-15J combat aircraft; AN/APG-63(V)1 version
+32318,United States,Japan,13,Yes,AN/APG-78 Longbow,Combat heli radar,New,,2001,,2006 - 2013,12,Yes,,For AH-64D (AH-64DJP) combat helicopters
+17839,United States,Jordan,1000,Yes,6V-53,Diesel engine,New,,2005,Yes,2005 - 2013,776,Yes,,For modernization of about 1000 M-113 APC to M-113A2 Mk-1J
+35956,United States,Jordan,85,Yes,AIM-120C AMRAAM,BVRAAM,New,,2009,,2013 - 2013,25,Yes,,Possibly $131 m deal; AIM-120C-7 version
+37194,United States,Jordan,432,Yes,GMLRS,Guided rocket,New,,2010,,2012 - 2013,288,Yes,,For HIMARS MRL; delivery probably 2012-2014
+4625,United States,"Korea, South",48,Yes,LM-500,Gas turbine,New,,2005,Yes,2008 - 2013,24,Yes,,For 24 Gumdoksuri (PKX or PKG-A) FAC produced in South Korea
+27148,United States,"Korea, South",60,Yes,F404,Turbofan,New,,2013,,2013 - 2013,8,Yes,Yes,For some 60 FA-50 combat aircraft produced in South Korea; incl production of components and final assembly in South Korea
+35948,United States,"Korea, South",125,,AIM-120C AMRAAM,BVRAAM,New,,2008,Yes,2011 - 2013,63,Yes,,AIM-120C-7 version
+13836,United States,"Korea, South",150,Yes,GBU-28,Guided bomb,New,,2011,,2013 - 2013,150,Yes,,KWR80 b ($71 m) deal
+33607,United States,"Korea, South",150,,Paveway,Guided bomb,New,,2011,,2013 - 2013,150,Yes,,$71 m deal; GBU-28 Paveway-3 version
+18104,United States,"Korea, South",62,Yes,Standard Missile-2MR,SAM,New,,2010,,2013 - 2013,62,Yes,,$67 m deal; SM-2 Block-3A and SM-2 Block-3B versions; for KDX-3 destroyers
+15779,United States,"Korea, South",55,Yes,AIM-9X Sidewinder,SRAAM,New,,2012,,2012 - 2013,55,Yes,,
+35952,United States,Kuwait,120,Yes,AIM-120C AMRAAM,BVRAAM,New,,2009,,2013 - 2013,25,Yes,,Possibly $178 m deal; AIM-120C-7 version
+35752,United States,Kuwait,10,,Pegasus,Patrol craft,New,,2009,,2011 - 2013,10,Yes,,
+36167,United States,Lebanon,1,,Cessna-208 Caravan,Light transport ac,Refurbished,Yes,2011,Yes,2013 - 2013,1,,,Second-hand Cessna-208B; modernized to AC-208 armed version before delivery; aid
+31436,United States,Lebanon,200,,M-113,APC,SecondHand,,2012,,2013 - 2013,200,,,Ex-US; aid
+30866,United States,Mexico,1000,Yes,SandCat,APV,New,,2012,Yes,2012 - 2013,116,Yes,Yes,DN-XI version; delivery 2012-2018
+36552,United States,Mexico,4,Yes,AN/TPS-70,Air search radar,New,,2011,,2012 - 2013,4,Yes,,$119 m or $221 m deal; AN/TPS-78 and/or AN/TPS-703 version
+35366,United States,Morocco,20,Yes,AGM-88 HARM,ARM,New,,2010,Yes,2013 - 2013,20,Yes,,
+35950,United States,Morocco,30,Yes,AIM-120C AMRAAM,BVRAAM,New,,2009,Yes,2013 - 2013,10,Yes,,AIM-120C-7 version
+35807,United States,Morocco,10,,JDAM,Guided bomb,New,,2012,,2013 - 2013,10,Yes,,LJDAM version
+21520,United States,Netherlands,37,Yes,F-35A JSF,FGA aircraft,New,,2008,,2012 - 2013,2,,Yes,Incl production of components in Netherlands; selected but only 2 ordered 2009-2011 (for EUR209-270 m) for final test phase and contract for rest not yet signed by end-2013
+34927,United States,Netherlands,6,,CH-47F Chinook,Helicopter,New,,2007,,2012 - 2013,6,Yes,,EUR400-500 m deal
+9266,United States,Netherlands,12,,CAT-3508,Diesel engine,New,,2007,Yes,2011 - 2013,12,Yes,,For 2 Holland OPV produced in Netherlands and 2 from Romania
+31445,United States,Netherlands,603,Yes,GBU-39 SDB,Guided bomb,New,,2010,,2012 - 2013,603,Yes,,$44 m deal
+36171,United States,Niger,2,,Cessna-208 Caravan,Light transport ac,New,,2013,Yes,2013 - 2013,2,,,Part of $11 m aid
+4752,United States,Norway,12,,ST-18,Gas turbine,New,,1999,Yes,2010 - 2013,12,Yes,,For 6 Skjold FAC produced in Norway
+32325,United States,Norway,12,,ST-40,Gas turbine,New,,1999,Yes,2010 - 2013,12,Yes,,For 6 Skjold FAC produced in Norway
+34224,United States,Oman,2,,C-130J Hercules,Transport aircraft,New,,2010,,2013 - 2013,1,,,Delivery 2013-2014
+37776,United States,Pakistan,1,Yes,King Air,Light transport ac,SecondHand,,2013,Yes,2013 - 2013,1,,,Second-hand; King Air-350i version
+35937,United States,Pakistan,500,Yes,AIM-120C AMRAAM,BVRAAM,New,,2007,,2010 - 2013,314,Yes,,$265 m deal; AIM-120C-5 version; for F-16 combat aircraft
+36118,United States,Pakistan,5,,DB-110,Aircraft recce system,New,,2011,,2013 - 2013,5,Yes,,Part of $72m deal; for F-16 combat aircraft
+30963,United States,Pakistan,35,Yes,AN/APG-68,Combat ac radar,New,,2007,,2012 - 2013,25,Yes,,AN/APG-68(V)9 version; for 'Mid-Life Update' (MLU) modernization of 35 F-16A combat aircraft to F-16C (F-16AM or F-16MLU)
+14964,United States,Paraguay,2,,Cessna-U206,Light aircraft,SecondHand,,2012,,2012 - 2013,2,Yes,,Second-hand; $1.1 m deal; Cessna-T206H version
+19591,United States,"Philippines, the",25,Yes,HMMWV Up-Armoured,APV,SecondHand,,2013,,2013 - 2013,25,Yes,,Ex-US; M-1114 version; aid
+8993,United States,"Philippines, the",1,,Hamilton,OPV,SecondHand,Yes,2011,Yes,2013 - 2013,1,,,Ex-US
+17811,United States,Romania,31,Yes,6V-53,Diesel engine,New,,2007,,2007 - 2013,31,Yes,,For 31 Piranha-3 APC from Switzerland
+9122,United States,Romania,14,Yes,AE-2100,Turboprop,New,,2006,Yes,2010 - 2013,14,Yes,,For 7 C-27J transport aircraft from Italy
+35863,United States,Saudi Arabia,24,Yes,AH-64D Apache,Combat helicopter,New,,2011,Yes,2013 - 2013,10,Yes,,AH-64E version; incl for National Guard and Royal Guard
+38063,United States,Saudi Arabia,13,,S-70/UH-60L,Helicopter,New,Yes,2010,,2012 - 2013,13,Yes,,Saudi UH-60A rebuilt to UH-60L
+38082,United States,Saudi Arabia,12,,S-70/UH-60L,Helicopter,New,Yes,2011,,2013 - 2013,6,Yes,,Saudi UH-60A rebuilt to UH-60L
+37306,United States,Saudi Arabia,25,,SR-22,Light aircraft,New,,2013,,2013 - 2013,25,,,Ordered via UK company (as part of GBP1.6 b deal); for training
+24021,United States,Saudi Arabia,12,Yes,MD-500E,Light helicopter,New,,2012,,2013 - 2013,12,Yes,,$41 m deal; MD-530F version; for National Guard
+37770,United States,Saudi Arabia,9,Yes,King Air,Light transport ac,New,,2012,,2013 - 2013,6,Yes,,King Air-350 version
+37777,United States,Saudi Arabia,1,,King Air,Light transport ac,Refurbished,Yes,2012,,2013 - 2013,1,,,Second-hand but probably modernized before delivery; King Air-350 version
+17804,United States,Saudi Arabia,724,Yes,6V-53,Diesel engine,New,,2009,,2011 - 2013,410,Yes,,For 724 Piranha (LAV) APC from Canada; 6V-53T version
+20441,United States,Saudi Arabia,2742,Yes,BGM-71 TOW,Anti-tank missile,New,,2010,Yes,2011 - 2013,2742,Yes,,$177 m deal; BGM-71E TOW-2A version; for National Guard
+33594,United States,Saudi Arabia,3100,Yes,Paveway,Guided bomb,New,,2011,Yes,2013 - 2013,500,Yes,,Incl 1100 GBU-24 Paveway-3 and 2000 Dual Mode Paveway
+14339,United States,Saudi Arabia,72,,ETS,Anti-tank AV turret,New,,2009,Yes,2011 - 2013,72,Yes,,ETS Mk-2 version; for 72 Piranha (LAV-AT) tank destroyers from Canada
+12601,United States,Saudi Arabia,264,,LAV-25 turret,IFV turret,New,,2009,Yes,2011 - 2013,115,Yes,,For 264 Piranha (LAV-25) IFV from Canada
+23786,United States,Seychelles,4,,TPE-331,Turboprop,New,,2012,Yes,2013 - 2013,2,,,For 2 Do-228 MP aircraft from India
+22561,United States,Singapore,12,Yes,ScanEagle,UAV,New,,2011,Yes,2012 - 2013,12,Yes,,For modernized Victory corvettes
+37629,United States,Singapore,300,Yes,C-9,Diesel engine,New,,2009,,2010 - 2013,255,Yes,,For AV-81 Terrex APC/IFV produced in Singapore
+12613,United States,Singapore,24,Yes,F-124,Turbofan,New,,2010,,2012 - 2013,20,Yes,,For 12 M-346 trainer/combat aircraft from Italy
+35949,United States,Singapore,200,,AIM-120C AMRAAM,BVRAAM,New,,2008,Yes,2013 - 2013,50,Yes,,
+35782,United States,Singapore,150,Yes,JDAM,Guided bomb,New,,2010,Yes,2011 - 2013,150,Yes,,
+37198,United States,Singapore,50,Yes,GMLRS,Guided rocket,New,,2011,,2012 - 2013,50,Yes,,For HIMARS MRL
+38062,United States,Sweden,15,,S-70/UH-60L,Helicopter,New,,2011,,2011 - 2013,15,Yes,,$207 m deal; UH-60M version; Swedish designation Hkp-16A
+17520,United States,Sweden,48,Yes,Cummins-6V,Diesel engine,New,,2012,,2013 - 2013,48,Yes,,For 48 BvS-10 APC produced in Sweden
+3658,United States,Switzerland,420,Yes,B5.9,Diesel engine,New,,2009,,2010 - 2013,290,Yes,,For 420 Duro-3P (GMTF or RP-13) APC produced in Switzerland
+1888,United States,Taiwan,12,,P-3CUP Orion,ASW aircraft,New,Yes,2008,Yes,2012 - 2013,4,Yes,,$664 m deal (offsets 70%); second-hand P-3C rebuilt to P-3CUP (possibly incl 8 in Taiwan); delivery 2012-2015
+35850,United States,Taiwan,30,,AH-64D Apache,Combat helicopter,New,,2010,Yes,2012 - 2013,10,Yes,,$2 b deal; AH-64E version; delivery 2012-2014
+24762,United States,Taiwan,9,Yes,T-700,Turboshaft,New,,2010,,2013 - 2013,3,Yes,,Spares for AH-64E combat helicopters
+18170,United States,Taiwan,32,Yes,RGM-84L Harpoon-2,Anti-ship MI/SSM,New,,2008,Yes,2013 - 2013,10,Yes,,UGM-84L version; for Zwaardvis (Hai Lung) submarines; delivery 2013-2016
+35944,United States,Taiwan,218,Yes,AIM-120C AMRAAM,BVRAAM,New,,2007,Yes,2013 - 2013,50,Yes,,
+20912,United States,Taiwan,171,,FIM-92 Stinger,Portable SAM,New,,2009,,2012 - 2013,65,Yes,,$45 m deal; for AH-64D combat helicopters
+35548,United States,Taiwan,264,,MIM-104F PAC-3,SAM,New,,2009,,2011 - 2013,221,Yes,,Part of $3.2 b deal; delivery probably 2011-2014
+37788,United States,Taiwan,1,,AN/FPS-115 Pave Paws,Air search radar,New,,2005,,2013 - 2013,1,,,Part of $1.4 b 'SRP' programme
+32313,United States,Taiwan,17,Yes,AN/APG-78 Longbow,Combat heli radar,New,,2010,Yes,2012 - 2013,6,Yes,,For AH-64E combat helicopters
+38061,United States,Thailand,3,,S-70/UH-60L,Helicopter,New,,2012,,2013 - 2013,3,,,Possibly THB2.8 b ($90 m) deal; UH-60M version
+5341,United States,Thailand,54,,M-198 155mm,Towed gun,SecondHand,,2012,,2013 - 2013,54,Yes,,Ex-US
+27146,United States,Thailand,6,Yes,F404,Turbofan,New,,2010,,2013 - 2013,6,Yes,,For 6 JAS-39 combat aircraft from Sweden; RM-12 version from Swedish production line
+16876,United States,Tunisia,2,,C-130J-30 Hercules,Transport aircraft,New,,2010,,2013 - 2013,1,,,Delivery 2013-2014
+29198,United States,Turkey,17,,S-70B/SH-60B Seahawk,ASW helicopter,New,,2006,,2013 - 2013,5,Yes,,Part of $500 m deal (mainly financed with US loan; offsets 50%); delivery delayed from 2009-2010 to probably 2013-2015
+21824,United States,Turkey,468,Yes,ISC-350,Diesel engine,New,,2009,,2010 - 2013,293,Yes,,For 468 Navigator (BMC-350) APC from Israel; designation uncertain (reported as 350hp Cummins diesel)
+1004,United States,Turkey,6,Yes,LM-2500,Gas turbine,New,,2008,Yes,2011 - 2013,2,Yes,,For 6 Heybeliyada (MilGem) frigates produced in Turkey
+7084,United States,Turkey,18,Yes,CT-7,Turboprop,New,,1998,,2012 - 2013,18,Yes,,For 6 CN-235D/K ASW and 3 CN-235 MP aircraft from Spain
+35154,United States,Turkey,48,,AGM-84H SLAM-ER,ASM,New,,2006,,2012 - 2013,48,Yes,,For F-16 combat aircraft
+23404,United States,Turkey,100,,Mk-54 MAKO,ASW torpedo,New,,2009,,2012 - 2013,75,Yes,,$105 m deal
+35954,United States,Turkey,107,Yes,AIM-120C AMRAAM,BVRAAM,New,,2008,Yes,2013 - 2013,25,Yes,,Possibly $157 m deal; AIM-120C-7 version
+33973,United States,Turkey,200,Yes,RIM-116A RAM,SAM,New,,2007,Yes,2011 - 2013,75,Yes,,For Heybeliada (MilGem) frigates
+24214,United States,Turkey,400,Yes,RIM-162 ESSM,SAM,New,,2009,Yes,2011 - 2013,142,Yes,Yes,For Gaziantep (Perry) and MEKO-200 frigates; incl production of components in Turkey (as part of NATO Sea Sparrow Consortium)
+30961,United States,Turkey,210,Yes,AN/APG-68,Combat ac radar,New,,2005,Yes,2010 - 2013,112,Yes,,Part of $1.1 b 'Peace Onyx-3' modernization of 210 Turkish F-16C combat aircraft; AN/APG-68(V)9 version
+37264,United States,United Arab Emirates,9,Yes,Patriot PAC-3,SAM system,New,,2008,,2012 - 2013,6,Yes,,
+37144,United States,United Arab Emirates,24,,AT-802U,Ground attack ac,New,,2010,,2010 - 2013,24,,,
+38055,United States,United Arab Emirates,14,,S-70/UH-60L,Helicopter,New,,2009,,2012 - 2013,14,Yes,,$209 m deal; UH-60M armed version
+34936,United States,United Arab Emirates,12,Yes,CH-47F Chinook,Helicopter,New,,2011,,2012 - 2013,3,Yes,,Delivery probably 2012-2015
+19980,United States,United Arab Emirates,750,,M-ATV,APV,New,,2012,Yes,2013 - 2013,750,,,AED1.4 b ($380 m) deal
+21165,United States,United Arab Emirates,390,Yes,AGM-114L HELLFIRE,Anti-tank missile,New,,2009,,2012 - 2013,390,Yes,,AGM-114N version
+30175,United States,United Arab Emirates,500,Yes,AGM-65 Maverick,ASM,New,,2010,,2011 - 2013,500,Yes,,$170 m deal; AGM-65D and AGM-65G version
+35947,United States,United Arab Emirates,224,,AIM-120C AMRAAM,BVRAAM,New,,2009,,2013 - 2013,50,Yes,,Part of $326 m deal; AIM-120C-7 version
+33568,United States,United Arab Emirates,938,,Paveway,Guided bomb,New,,2008,Yes,2010 - 2013,938,Yes,,Incl 450 GBU-24 Paveway-3 and 488 GBU-12 Paveway-2
+24209,United States,United Arab Emirates,237,Yes,RIM-162 ESSM,SAM,New,,2006,,2011 - 2013,75,Yes,,Possibly $245 m deal; for Baynunah corvettes
+33977,United States,United Arab Emirates,200,Yes,RIM-116A RAM,SAM,New,,2007,,2011 - 2013,100,Yes,,For Baynunah corvettes; RIM-116B version
+36082,United States,United Arab Emirates,216,Yes,MIM-104C PAC-2,SAM,New,,2008,,2012 - 2013,125,Yes,,Patriot GEM-T version
+35547,United States,United Arab Emirates,292,Yes,MIM-104F PAC-3,SAM,New,,2008,Yes,2012 - 2013,292,Yes,,
+26229,United States,United Arab Emirates,100,Yes,MGM-140B ATACMS,SSM,New,,2011,Yes,2013 - 2013,100,Yes,,ATACMS Block-1A version
+36119,United States,United Arab Emirates,6,,DB-110,Aircraft recce system,New,,2011,,2013 - 2013,6,Yes,,$81 m deal
+10326,United States,United Kingdom,138,Yes,F-35B JSF,FGA aircraft,New,,2006,Yes,2012 - 2013,3,Yes,Yes,"'FCJA' or 'JCA' programme; incl production of components in UK; up to 138 planned id which 3 ordered for testing, evaluation and training by end-2013"
+37774,United States,United Kingdom,1,,King Air,Light transport ac,New,,2012,Yes,2013 - 2013,1,,,King Air-300C version; for training
+19287,United States,United Kingdom,3,,RC-135 Rivet joint,SIGINT aircraft,New,Yes,2010,,2013 - 2013,1,,,GBP680 m ($1 b) 'Project Helix' or 'Airseeker' deal; ex-US KC-135R tanker aircraft rebuilt to RC-135W; delivery 2013-2017
+22560,United States,United Kingdom,5,Yes,ScanEagle,UAV,New,,2013,,2013 - 2013,5,Yes,,GBP30 m ($46 m) 'MarUAS' deal; leased and operated by producer for UK navy
+23915,United States,United Kingdom,400,Yes,AGM-114K HELLFIRE,Anti-tank missile,New,,2012,,2013 - 2013,400,Yes,,GBP29 m deal
+23918,United States,United Kingdom,100,Yes,AGM-114K HELLFIRE,Anti-tank missile,New,,2013,,2013 - 2013,100,Yes,,GBP15 m deal
+33566,United States,United Kingdom,2303,,Paveway,Guided bomb,New,,2003,,2008 - 2013,2303,Yes,Yes,GBP120 m ($190 m) 'PGB' programme; Paveway-4 version
+33606,United States,United Kingdom,1000,Yes,Paveway,Guided bomb,New,,2012,,2013 - 2013,300,Yes,Yes,GBP60 m deal; Paveway-4 version; replacing Paveway used in Libya war 2011
+36172,United States,Yemen,2,,Cessna-208 Caravan,Light transport ac,New,,2012,,2013 - 2013,2,,,Cessba-208N-ISR surveillance version or AC-208B armed version; aid
+7119,United States,Yemen,2,Yes,CT-7,Turboprop,New,,2011,,2013 - 2013,2,,,For 1 CN-235 transport aircraft from Spain
+1822,Unknown country,Bolivia,1,Yes,Jetstream,Light transport ac,SecondHand,Yes,2012,Yes,2013 - 2013,1,Yes,,Second-hand
+17342,Unknown country,Colombia,1,,Commander-680FL,Light transport ac,SecondHand,,2013,,2013 - 2013,1,,,Second-hand; Commander-690B version
+12074,Unknown country,Rwanda,5,Yes,Ratel-23,IFV,SecondHand,Yes,2012,Yes,2013 - 2013,5,Yes,,Probably second-hand Ratel from unknown supplier modernized with Ukrainian turret (but possibly second-hand Ratel-23 from Jordan)
+36065,Unknown country,Syrian rebels,50,Yes,Red Arrow-8,Anti-tank missile,New,Yes,2013,Yes,2013 - 2013,50,Yes,,
+34745,Unknown country,Uruguay,1,Yes,King Air Maritime,MP aircraft,SecondHand,Yes,2012,,2013 - 2013,1,Yes,,Probably second-hand King Air B-200T version; probably bought via Swiss company; possibly modified to MP aircraft before delivery; $1.5 m deal; delivery probably 2013
