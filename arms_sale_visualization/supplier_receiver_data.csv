@@ -1,0 +1,759 @@
+Supplier,Recipient
+Australia,India
+Australia,Indonesia
+Australia,Singapore
+Australia,United States
+Austria,Poland
+Belarus,China
+Belarus,Sudan
+Belgium,France
+Belgium,Saudi Arabia
+Belgium,United Kingdom
+Brazil,Angola
+Brazil,Mauritania
+Canada,Angola
+Canada,Botswana
+Canada,Colombia
+Canada,Colombia
+Canada,Ecuador
+Canada,Egypt
+Canada,India
+Canada,Indonesia
+Canada,Kazakhstan
+Canada,Laos
+Canada,Mauritania
+Canada,Oman
+Canada,Peru
+Canada,Poland
+Canada,Poland
+Canada,Saudi Arabia
+Canada,Saudi Arabia
+Canada,Turkey
+Canada,United Arab Emirates
+Canada,United Arab Emirates
+Canada,United States
+Canada,United States
+Canada,Viet Nam
+China,Bangladesh
+China,Bangladesh
+China,Bangladesh
+China,Bangladesh
+China,Bangladesh
+China,Bangladesh
+China,Benin
+China,Cambodia
+China,Egypt
+China,Ethiopia
+China,Ethiopia
+China,Ethiopia
+China,Indonesia
+China,Indonesia
+China,Indonesia
+China,Indonesia
+China,Laos
+China,Myanmar
+China,Myanmar
+China,Myanmar
+China,Myanmar
+China,Pakistan
+China,Pakistan
+China,Pakistan
+China,Pakistan
+China,Pakistan
+China,Pakistan
+China,Pakistan
+China,Pakistan
+China,Pakistan
+China,Pakistan
+China,Pakistan
+China,Pakistan
+China,Pakistan
+China,Pakistan
+China,Pakistan
+China,Sudan
+China,Tanzania
+China,Thailand
+China,Thailand
+China,Venezuela
+Czech Republic,Mexico
+Czech Republic,Poland
+Czech Republic,Slovakia
+Denmark,Brazil
+Denmark,Colombia
+Denmark,Netherlands
+Denmark,United Arab Emirates
+Finland,Colombia
+Finland,Poland
+Finland,Poland
+Finland,Portugal
+Finland,Saudi Arabia
+Finland,Sweden
+Finland,United Arab Emirates
+France,Albania
+France,Australia
+France,Australia
+France,Australia
+France,Australia
+France,Bangladesh
+France,Belgium
+France,Benin
+France,Brazil
+France,Brazil
+France,Canada
+France,Chile
+France,Chile
+France,China
+France,China
+France,China
+France,Ecuador
+France,Egypt
+France,Estonia
+France,Finland
+France,Finland
+France,Germany
+France,Greece
+France,Greece
+France,India
+France,India
+France,India
+France,Indonesia
+France,Indonesia
+France,Indonesia
+France,Indonesia
+France,Indonesia
+France,Italy
+France,Japan
+France,Madagascar
+France,Malaysia
+France,Malaysia
+France,Mexico
+France,Morocco
+France,Morocco
+France,Netherlands
+France,Netherlands
+France,New Zealand
+France,Niger
+France,Niger
+France,Nigeria
+France,Norway
+France,Norway
+France,Oman
+France,Oman
+France,Oman
+France,Pakistan
+France,Peru
+France,Poland
+France,Qatar
+France,Qatar
+France,Qatar
+France,Russia
+France,Russia
+France,Saudi Arabia
+France,Saudi Arabia
+France,Saudi Arabia
+France,Saudi Arabia
+France,Saudi Arabia
+France,Saudi Arabia
+France,Saudi Arabia
+France,Senegal
+France,Singapore
+France,Singapore
+France,South Africa
+France,Spain
+France,Spain
+France,Suriname
+France,Sweden
+France,Thailand
+France,Turkey
+France,United Arab Emirates
+France,United Arab Emirates
+France,United Arab Emirates
+France,United Arab Emirates
+France,United Kingdom
+France,United Kingdom
+France,United States
+France,United States
+France,United States
+France,Uruguay
+Germany,Argentina
+Germany,Bangladesh
+Germany,Belgium
+Germany,Brazil
+Germany,Brazil
+Germany,Canada
+Germany,China
+Germany,Colombia
+Germany,Egypt
+Germany,Egypt
+Germany,Egypt
+Germany,Greece
+Germany,Greece
+Germany,India
+Germany,India
+Germany,India
+Germany,Indonesia
+Germany,Indonesia
+Germany,Indonesia
+Germany,Indonesia
+Germany,Israel
+Germany,Israel
+Germany,Italy
+Germany,Japan
+Germany,Kazakhstan
+Germany,Kenya
+Germany,Korea, South
+Germany,Korea, South
+Germany,Latvia
+Germany,Netherlands
+Germany,Netherlands
+Germany,Netherlands
+Germany,Norway
+Germany,Oman
+Germany,Philippines, the
+Germany,Saudi Arabia
+Germany,Saudi Arabia
+Germany,Spain
+Germany,Spain
+Germany,Spain
+Germany,Spain
+Germany,Spain
+Germany,Thailand
+Germany,Thailand
+Germany,Turkey
+Germany,Turkey
+Germany,Turkey
+Germany,Turkey
+Germany,United Arab Emirates
+Germany,United Arab Emirates
+Germany,United Arab Emirates
+Germany,United States
+Germany,United States
+India,Afghanistan
+India,Maldives
+India,Seychelles
+Iran,Huthi rebels (Yemen)
+Iran,Syria
+Iran,Venezuela
+Ireland,Macedonia, Former Yugoslav Republic of (FYROM)
+Israel,Austria
+Israel,Azerbaijan
+Israel,Azerbaijan
+Israel,Azerbaijan
+Israel,Belgium
+Israel,Brazil
+Israel,Brazil
+Israel,Brazil
+Israel,Brazil
+Israel,Chile
+Israel,Colombia
+Israel,Colombia
+Israel,Colombia
+Israel,Denmark
+Israel,Germany
+Israel,India
+Israel,India
+Israel,India
+Israel,India
+Israel,India
+Israel,India
+Israel,India
+Israel,India
+Israel,India
+Israel,Italy
+Israel,Italy
+Israel,Korea, South
+Israel,Korea, South
+Israel,Korea, South
+Israel,New Zealand
+Israel,Nigeria
+Israel,Poland
+Israel,Russia
+Israel,Rwanda
+Israel,Seychelles
+Israel,Spain
+Israel,Turkey
+Israel,United Kingdom
+Israel,United States
+Israel,Viet Nam
+Italy,Algeria
+Italy,Austria
+Italy,Bangladesh
+Italy,Brazil
+Italy,Brazil
+Italy,Brazil
+Italy,Chad
+Italy,Czech Republic
+Italy,Finland
+Italy,India
+Italy,Korea, South
+Italy,Kuwait
+Italy,Libya
+Italy,Morocco
+Italy,Norway
+Italy,Norway
+Italy,Norway
+Italy,Oman
+Italy,Pakistan
+Italy,Pakistan
+Italy,Panama
+Italy,Panama
+Italy,Poland
+Italy,Portugal
+Italy,Romania
+Italy,Russia
+Italy,Singapore
+Italy,Thailand
+Italy,Turkey
+Italy,United Arab Emirates
+Italy,United Arab Emirates
+Italy,United Arab Emirates
+Italy,United Arab Emirates
+Italy,United Arab Emirates
+Italy,United Nations
+Italy,United States
+Jordan,Libya
+Korea, South,Indonesia
+Korea, South,Malaysia
+Korea, South,Turkey
+Korea, South,Turkey
+Netherlands,Canada
+Netherlands,Egypt
+Netherlands,Estonia
+Netherlands,Germany
+Netherlands,Germany
+Netherlands,Honduras
+Netherlands,Jordan
+Netherlands,Jordan
+Netherlands,Jordan
+Netherlands,Malaysia
+Netherlands,Norway
+Netherlands,Oman
+Netherlands,Oman
+Netherlands,Saudi Arabia
+Netherlands,Thailand
+Netherlands,Thailand
+Netherlands,Turkey
+Netherlands,Turkey
+Netherlands,Turkey
+Netherlands,United Kingdom
+Netherlands,United States
+Norway,Finland
+Norway,Netherlands
+Norway,Nigeria
+Norway,Poland
+Norway,Switzerland
+Poland,Philippines, the
+Poland,United States
+Poland,United States
+Romania,Mozambique
+Romania,Netherlands
+Russia,Afghanistan
+Russia,Algeria
+Russia,Algeria
+Russia,Algeria
+Russia,Algeria
+Russia,Algeria
+Russia,Algeria
+Russia,Azerbaijan
+Russia,Azerbaijan
+Russia,Azerbaijan
+Russia,Azerbaijan
+Russia,Azerbaijan
+Russia,Azerbaijan
+Russia,Azerbaijan
+Russia,Azerbaijan
+Russia,Azerbaijan
+Russia,Azerbaijan
+Russia,Azerbaijan
+Russia,Bangladesh
+Russia,Belarus
+Russia,Belarus
+Russia,Brazil
+Russia,Brazil
+Russia,Cameroon
+Russia,China
+Russia,China
+Russia,China
+Russia,China
+Russia,China
+Russia,China
+Russia,China
+Russia,China
+Russia,China
+Russia,China
+Russia,Egypt
+Russia,Ghana
+Russia,Ghana
+Russia,India
+Russia,India
+Russia,India
+Russia,India
+Russia,India
+Russia,India
+Russia,India
+Russia,India
+Russia,India
+Russia,India
+Russia,India
+Russia,India
+Russia,India
+Russia,India
+Russia,India
+Russia,India
+Russia,India
+Russia,India
+Russia,India
+Russia,India
+Russia,Indonesia
+Russia,Indonesia
+Russia,Iran
+Russia,Iraq
+Russia,Kazakhstan
+Russia,Libya
+Russia,Libya
+Russia,Malaysia
+Russia,Myanmar
+Russia,Myanmar
+Russia,Myanmar
+Russia,Myanmar
+Russia,Pakistan
+Russia,Sudan
+Russia,Sudan
+Russia,Syria
+Russia,Syria
+Russia,Syria
+Russia,Syria
+Russia,Syria
+Russia,Syria
+Russia,Turkmenistan
+Russia,Turkmenistan
+Russia,Uganda
+Russia,United Arab Emirates
+Russia,United Arab Emirates
+Russia,Venezuela
+Russia,Venezuela
+Russia,Venezuela
+Russia,Venezuela
+Russia,Venezuela
+Russia,Venezuela
+Russia,Venezuela
+Russia,Venezuela
+Russia,Venezuela
+Russia,Venezuela
+Russia,Viet Nam
+Russia,Viet Nam
+Russia,Viet Nam
+Russia,Viet Nam
+Russia,Viet Nam
+Russia,Viet Nam
+Serbia,Bangladesh
+Singapore,United Arab Emirates
+South Africa,Benin
+South Africa,Equatorial Guinea
+South Africa,Finland
+South Africa,Gabon
+South Africa,India
+South Africa,Sweden
+South Africa,Thailand
+South Africa,United Arab Emirates
+South Africa,United Nations
+South Africa,Yemen
+Spain,Cameroon
+Spain,Colombia
+Spain,Egypt
+Spain,Indonesia
+Spain,Kazakhstan
+Spain,Mozambique
+Spain,Oman
+Spain,Pakistan
+Spain,Poland
+Spain,Turkey
+Spain,Turkey
+Spain,United Arab Emirates
+Spain,United States
+Spain,Uruguay
+Spain,Yemen
+Sweden,Australia
+Sweden,Finland
+Sweden,France
+Sweden,Germany
+Sweden,Italy
+Sweden,Korea, South
+Sweden,Norway
+Sweden,Pakistan
+Sweden,Pakistan
+Sweden,Poland
+Sweden,Poland
+Sweden,Saudi Arabia
+Sweden,Spain
+Sweden,Thailand
+Sweden,Thailand
+Sweden,United Arab Emirates
+Sweden,United Arab Emirates
+Sweden,United Kingdom
+Switzerland,Afghanistan
+Switzerland,Belgium
+Switzerland,Botswana
+Switzerland,Brazil
+Switzerland,China
+Switzerland,China
+Switzerland,India
+Switzerland,Romania
+Switzerland,Saudi Arabia
+Switzerland,Spain
+Switzerland,United States
+Turkey,Azerbaijan
+Turkey,Azerbaijan
+Turkey,Azerbaijan
+Turkey,Bangladesh
+Turkey,Kazakhstan
+Turkey,Pakistan
+Turkey,Qatar
+Turkey,United Arab Emirates
+Ukraine,Azerbaijan
+Ukraine,Bangladesh
+Ukraine,China
+Ukraine,China
+Ukraine,Egypt
+Ukraine,Egypt
+Ukraine,Estonia
+Ukraine,Ethiopia
+Ukraine,Ethiopia
+Ukraine,India
+Ukraine,India
+Ukraine,India
+Ukraine,India
+Ukraine,Kazakhstan
+Ukraine,Mozambique
+Ukraine,Myanmar
+Ukraine,Niger
+Ukraine,Nigeria
+Ukraine,Pakistan
+Ukraine,Pakistan
+Ukraine,Russia
+Ukraine,Russia
+Ukraine,Russia
+Ukraine,Rwanda
+Ukraine,Thailand
+Ukraine,Thailand
+Ukraine,Venezuela
+Ukraine,Viet Nam
+United Arab Emirates,Jordan
+United Arab Emirates,Pakistan
+United Kingdom,Australia
+United Kingdom,Brazil
+United Kingdom,China
+United Kingdom,India
+United Kingdom,Oman
+United Kingdom,Poland
+United Kingdom,Poland
+United Kingdom,Saudi Arabia
+United Kingdom,Saudi Arabia
+United Kingdom,Saudi Arabia
+United Kingdom,Somalia
+United Kingdom,Thailand
+United Kingdom,Thailand
+United Kingdom,United Arab Emirates
+United Kingdom,United Arab Emirates
+United Kingdom,United States
+United Kingdom,United States
+United States,Afghanistan
+United States,Afghanistan
+United States,Afghanistan
+United States,Angola
+United States,Argentina
+United States,Argentina
+United States,Argentina
+United States,Australia
+United States,Australia
+United States,Australia
+United States,Australia
+United States,Australia
+United States,Australia
+United States,Bahrain
+United States,Bahrain
+United States,Bangladesh
+United States,Bangladesh
+United States,Bolivia
+United States,Bolivia
+United States,Brazil
+United States,Brazil
+United States,Brazil
+United States,Brazil
+United States,Brazil
+United States,Brunei Darussalam
+United States,Cameroon
+United States,Canada
+United States,Canada
+United States,Chad
+United States,Chile
+United States,Chile
+United States,Chile
+United States,Chile
+United States,Colombia
+United States,Colombia
+United States,Colombia
+United States,Colombia
+United States,Colombia
+United States,Colombia
+United States,Colombia
+United States,Colombia
+United States,Colombia
+United States,Colombia
+United States,Colombia
+United States,Colombia
+United States,Egypt
+United States,Egypt
+United States,Egypt
+United States,Egypt
+United States,Egypt
+United States,Finland
+United States,Finland
+United States,Finland
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,Germany
+United States,Germany
+United States,Germany
+United States,Greece
+United States,Hungary
+United States,India
+United States,India
+United States,India
+United States,India
+United States,India
+United States,India
+United States,Indonesia
+United States,Indonesia
+United States,Indonesia
+United States,Iraq
+United States,Iraq
+United States,Iraq
+United States,Iraq
+United States,Iraq
+United States,Iraq
+United States,Iraq
+United States,Iraq
+United States,Iraq
+United States,Israel
+United States,Italy
+United States,Italy
+United States,Italy
+United States,Italy
+United States,Japan
+United States,Japan
+United States,Japan
+United States,Japan
+United States,Japan
+United States,Japan
+United States,Japan
+United States,Japan
+United States,Jordan
+United States,Jordan
+United States,Jordan
+United States,Korea, South
+United States,Korea, South
+United States,Korea, South
+United States,Korea, South
+United States,Korea, South
+United States,Korea, South
+United States,Korea, South
+United States,Kuwait
+United States,Kuwait
+United States,Lebanon
+United States,Lebanon
+United States,Mexico
+United States,Mexico
+United States,Morocco
+United States,Morocco
+United States,Morocco
+United States,Netherlands
+United States,Netherlands
+United States,Netherlands
+United States,Netherlands
+United States,Niger
+United States,Norway
+United States,Norway
+United States,Oman
+United States,Pakistan
+United States,Pakistan
+United States,Pakistan
+United States,Pakistan
+United States,Paraguay
+United States,Philippines, the
+United States,Philippines, the
+United States,Romania
+United States,Romania
+United States,Saudi Arabia
+United States,Saudi Arabia
+United States,Saudi Arabia
+United States,Saudi Arabia
+United States,Saudi Arabia
+United States,Saudi Arabia
+United States,Saudi Arabia
+United States,Saudi Arabia
+United States,Saudi Arabia
+United States,Saudi Arabia
+United States,Saudi Arabia
+United States,Saudi Arabia
+United States,Seychelles
+United States,Singapore
+United States,Singapore
+United States,Singapore
+United States,Singapore
+United States,Singapore
+United States,Singapore
+United States,Sweden
+United States,Sweden
+United States,Switzerland
+United States,Taiwan
+United States,Taiwan
+United States,Taiwan
+United States,Taiwan
+United States,Taiwan
+United States,Taiwan
+United States,Taiwan
+United States,Taiwan
+United States,Taiwan
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Tunisia
+United States,Turkey
+United States,Turkey
+United States,Turkey
+United States,Turkey
+United States,Turkey
+United States,Turkey
+United States,Turkey
+United States,Turkey
+United States,Turkey
+United States,Turkey
+United States,United Arab Emirates
+United States,United Arab Emirates
+United States,United Arab Emirates
+United States,United Arab Emirates
+United States,United Arab Emirates
+United States,United Arab Emirates
+United States,United Arab Emirates
+United States,United Arab Emirates
+United States,United Arab Emirates
+United States,United Arab Emirates
+United States,United Arab Emirates
+United States,United Arab Emirates
+United States,United Arab Emirates
+United States,United Arab Emirates
+United States,United Arab Emirates
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,Yemen
+United States,Yemen
