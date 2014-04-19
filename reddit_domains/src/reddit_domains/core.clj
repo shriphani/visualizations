@@ -37,13 +37,15 @@
                  walk/keywordize-keys
                  :data
                  :children)
-        new-hi (-> data
-                   first
-                   :data
-                   :created
-                   int
-                   dec)]
-    (if (< low new-hi)
+        new-hi (try
+                (-> data
+                    first
+                    :data
+                    :created
+                    int
+                    dec)
+                (catch Exception e nil))]
+    (if (and new-hi (< low new-hi))
       (recur low new-hi (concat data collected-data))
       (concat data collected-data))))
 
