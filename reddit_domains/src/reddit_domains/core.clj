@@ -45,7 +45,7 @@
                     int
                     dec)
                 (catch Exception e nil))]
-    (if (and new-hi (< low new-hi))
+    (if (and  new-hi (< low new-hi))
       (recur low new-hi (concat data collected-data))
       (concat data collected-data))))
 
