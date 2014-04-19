@@ -21,35 +21,36 @@
                  years))
 
 (defn create-url
-  [[jan1 jan2]]
-  (str "http://api.reddit.com/search.json?q=timestamp:" jan1 ".." jan2 "&syntax=cloudsearch"))
+  [jan1 jan2]
+  (str "http://api.reddit.com/search.json?q=timestamp:" jan1 ".." jan2 "&syntax=cloudsearch&sort=new"))
 
-(defn paginate-url
-  [url next-id]
-  (str url "&after=" next-id))
-
-(defn download-pages
-  [url collected]
-  (let [body (-> url
+(defn fix-and-download
+  [low hi collected-data]
+  (pprint [:low low :hi hi])
+  (let [url  (create-url low hi)
+        data (-> url
                  client/get
                  :body
                  json/parse-string
-                 walk/keywordize-keys)
-        next (-> body
+                 walk/keywordize-keys
                  :data
-                 :after)]
-    (if (nil? next)
-      (concat collected (-> body :data :children))
-      (do
-        (Thread/sleep 2000)
-        (recur (paginate-url url next)
-               (concat collected (-> body :data :children)))))))
+                 :children)
+        new-hi (-> data
+                   first
+                   :data
+                   :created
+                   int)]
+    (if (< low new-hi)
+      (recur low new-hi (concat data collected-data))
+      (concat data collected-data))))
 
-(defn fetch-submissions
+(defn get-ts-posts
   []
-  (doseq [ts timestamps]
-    (let [url  (create-url ts)
-          corpus (download-pages url [])]
-      (with-open [wrtr (io/writer (str (.indexOf timestamps ts) ".corpus"))]
-        (binding [*out* wrtr]
-          (pprint corpus))))))
+  (map
+   (fn [[t1 t2]]
+     (let [downloaded (fix-and-download t1 t2 [])
+           i (.indexOf timestamps [t1 t2])]
+       (with-open [wrtr (io/writer (str i ".corpus"))]
+         (binding [*out* wrtr]
+           (pprint downloaded)))))
+   (take 1 timestamps)))
