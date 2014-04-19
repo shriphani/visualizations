@@ -27,6 +27,8 @@
 (defn fix-and-download
   [low hi collected-data]
   (pprint [:low low :hi hi])
+  (flush)
+  (Thread/sleep 2000)
   (let [url  (create-url low hi)
         data (-> url
                  client/get
@@ -46,11 +48,9 @@
 
 (defn get-ts-posts
   []
-  (map
-   (fn [[t1 t2]]
-     (let [downloaded (fix-and-download t1 t2 [])
-           i (.indexOf timestamps [t1 t2])]
-       (with-open [wrtr (io/writer (str i ".corpus"))]
-         (binding [*out* wrtr]
-           (pprint downloaded)))))
-   (take 1 timestamps)))
+  (doseq [[t1 t2] (take 1 timestamps)]
+    (let [downloaded (fix-and-download t1 t2 [])
+          i (.indexOf timestamps [t1 t2])]
+      (with-open [wrtr (io/writer (str i ".corpus"))]
+        (binding [*out* wrtr]
+          (pprint downloaded))))))
