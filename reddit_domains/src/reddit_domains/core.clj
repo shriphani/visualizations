@@ -51,7 +51,7 @@
 
 (defn get-ts-posts
   []
-  (doseq [[t1 t2] (take 1 timestamps)]
+  (doseq [[t1 t2] timestamps]
     (let [downloaded (fix-and-download t1 t2 [])
           i (.indexOf timestamps [t1 t2])]
       (with-open [wrtr (io/writer (str i ".corpus"))]
