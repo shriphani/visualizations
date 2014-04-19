@@ -41,7 +41,8 @@
                    first
                    :data
                    :created
-                   int)]
+                   int
+                   dec)]
     (if (< low new-hi)
       (recur low new-hi (concat data collected-data))
       (concat data collected-data))))
