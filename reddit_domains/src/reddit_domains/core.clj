@@ -24,17 +24,32 @@
   [[jan1 jan2]]
   (str "http://api.reddit.com/search.json?q=timestamp:" jan1 ".." jan2 "&syntax=cloudsearch"))
 
+(defn paginate-url
+  [url next-id]
+  (str url "&after=" next-id))
+
+(defn download-pages
+  [url collected]
+  (let [body (-> url
+                 client/get
+                 :body
+                 json/parse-string
+                 walk/keywordize-keys)
+        next (-> body
+                 :data
+                 :after)]
+    (if (nil? next)
+      (concat collected (-> body :data :children))
+      (do
+        (Thread/sleep 2000)
+        (recur (paginate-url url next)
+               (concat collected (-> body :data :children)))))))
+
 (defn fetch-submissions
   []
   (doseq [ts timestamps]
-    (Thread/sleep 2000)
     (let [url  (create-url ts)
-          body (-> url
-                   client/get
-                   :body
-                   json/parse-string
-                   walk/keywordize-keys)]
-      (println url)
+          corpus (download-pages url [])]
       (with-open [wrtr (io/writer (str (.indexOf timestamps ts) ".corpus"))]
         (binding [*out* wrtr]
-          (pprint body))))))
+          (pprint corpus))))))
