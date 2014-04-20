@@ -10,19 +10,28 @@
 (def years (range 2006 2015))
 
 (def timestamps (map
-                 (fn [y] [(int
-                          (/ (time-coerce/to-long
-                              (time/date-time y 1 1))
-                             1000))
-                         (int
-                          (/ (time-coerce/to-long
-                              (time/date-time y 1 2))
-                             1000))])
+                 (fn [y]
+                   (let [jan1 (int
+                               (/ (time-coerce/to-long
+                                   (time/date-time y 1 1))
+                                  1000))
+
+                         jan2 (int
+                               (/ (time-coerce/to-long
+                                   (time/date-time y 1 2))
+                                  1000))
+
+                         dec31 (- jan1 60000)]
+                    [dec31 jan1 jan2]))
                  years))
 
 (defn create-url
-  [jan1 jan2]
-  (str "http://api.reddit.com/search.json?q=timestamp:" jan1 ".." jan2 "&syntax=cloudsearch&sort=new"))
+  [low high]
+  (str "http://api.reddit.com/search.json?q=timestamp:" low ".." high "&syntax=cloudsearch&sort=new"))
+
+(defn create-r-all-url
+  [s]
+  (format "http://www.reddit.com/r/all/new.json?count=100&before=%s" s))
 
 (defn fix-and-download
   [low hi collected-data]
@@ -49,11 +58,69 @@
       (recur low new-hi (concat data collected-data))
       (concat data collected-data))))
 
-(defn get-ts-posts
+(defn starting-point
+  [dec31-ts jan1-ts]
+  (let [url (create-url dec31-ts jan1-ts)
+        data (-> url
+                 client/get
+                 :body
+                 json/parse-string
+                 walk/keywordize-keys
+                 :data
+                 :children
+                 first)]))
+
+(defn get-starting-point
+  [dec31 jan1]
+  (let [url (str (create-url dec31 jan1)
+                 "&limit=1")]
+    (-> url
+        client/get
+        :body
+        json/parse-string
+        walk/keywordize-keys
+        :data
+        :children
+        first
+        :data
+        :name)))
+
+(defn download-till-end
+  ([starting-pt jan2]
+     (download-till-end starting-pt jan2 []))
+  ([starting-pt jan2 downloaded]
+   (let [url (create-r-all-url starting-pt)
+         data (-> url
+                  client/get
+                  :body
+                  json/parse-string
+                  walk/keywordize-keys
+                  :data
+                  :children)
+         next-starting-pt (-> data
+                              last
+                              :data
+                              :name)
+         ts (-> data
+                last
+                :data
+                :created
+                int)]
+     (if (< ts jan2)
+       (do (Thread/sleep 2000)
+           (recur next-starting-pt
+                  jan2
+                  (concat downloaded data)))
+       (concat downloaded data)))))
+
+(defn build-dataset
   []
-  (doseq [[t1 t2] timestamps]
-    (let [downloaded (fix-and-download t1 t2 [])
-          i (.indexOf timestamps [t1 t2])]
-      (with-open [wrtr (io/writer (str i ".corpus"))]
+  (doseq [[dec31 jan1 jan2] timestamps]
+    (Thread/sleep 2000)
+    (let [starting-pt (get-starting-point dec31 jan1)
+          corpus-name (str (.indexOf timestamps [dec31 jan1 jan2]) ".corpus")]
+      (println jan1 jan2 corpus-name starting-pt)
+      (with-open [wrtr (io/writer corpus-name)]
         (binding [*out* wrtr]
-          (pprint downloaded))))))
+          (let [corpus (download-till-end starting-pt jan2)]
+            (pprint corpus)))))))
