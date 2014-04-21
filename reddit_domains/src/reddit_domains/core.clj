@@ -86,41 +86,39 @@
         :name)))
 
 (defn download-till-end
-  ([starting-pt jan2]
-     (download-till-end starting-pt jan2 []))
-  ([starting-pt jan2 downloaded]
-   (let [url (create-r-all-url starting-pt)
-         data (-> url
-                  client/get
-                  :body
-                  json/parse-string
-                  walk/keywordize-keys
-                  :data
-                  :children)
-         next-starting-pt (-> data
-                              last
-                              :data
-                              :name)
-         ts (-> data
-                last
-                :data
-                :created
-                int)]
-     (if (< ts jan2)
-       (do (Thread/sleep 2000)
-           (recur next-starting-pt
-                  jan2
-                  (concat downloaded data)))
-       (concat downloaded data)))))
+  [starting-pt jan2 writer]
+  (let [url (create-r-all-url starting-pt)
+        data (-> url
+                 client/get
+                 :body
+                 json/parse-string
+                 walk/keywordize-keys
+                 :data
+                 :children)
+        next-starting-pt (-> data
+                             last
+                             :data
+                             :name)
+        ts (-> data
+               last
+               :data
+               :created
+               int)]
+    (do (binding [*out* writer]
+          (map pprint data)))
+    (when (< ts jan2)
+      (do (Thread/sleep 2000)
+          (recur next-starting-pt
+                 jan2
+                 writer)))))
 
 (defn build-dataset
   []
   (doseq [[dec31 jan1 jan2] timestamps]
     (Thread/sleep 2000)
     (let [starting-pt (get-starting-point dec31 jan1)
-          corpus-name (str (.indexOf timestamps [dec31 jan1 jan2]) ".corpus")]
+          corpus-name (str (.indexOf timestamps [dec31 jan1 jan2]) ".corpus")
+          writer (io/writer corpus-name)]
       (println jan1 jan2 corpus-name starting-pt)
-      (with-open [wrtr (io/writer corpus-name)]
-        (binding [*out* wrtr]
-          (let [corpus (download-till-end starting-pt jan2)]
-            (pprint corpus)))))))
+      (download-till-end starting-pt jan2 writer)
+      (.close writer))))
