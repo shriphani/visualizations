@@ -105,7 +105,8 @@
                :created
                int)]
     (do (binding [*out* writer]
-          (map pprint data)))
+          (doall (map pprint data))
+          (flush)))
     (when (< ts jan2)
       (do (Thread/sleep 2000)
           (recur next-starting-pt
