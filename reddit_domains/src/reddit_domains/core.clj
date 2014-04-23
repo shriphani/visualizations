@@ -41,7 +41,7 @@
        nil
        (try (client/get x)
             (catch Exception e (do (Thread/sleep 1000)
-                                   (recur x (dec n))))))))
+                                   (try-download-times x (dec n))))))))
 
 (defn fix-and-download
   [low hi collected-data]
