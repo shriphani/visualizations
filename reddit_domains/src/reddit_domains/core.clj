@@ -103,8 +103,8 @@
                  :body
                  json/parse-string
                  walk/keywordize-keys
-                 :data)
-        :children
+                 :data
+                 :children)
         next-starting-pt (-> data
                              last
                              :data
