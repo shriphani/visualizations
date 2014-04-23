@@ -33,6 +33,16 @@
   [s]
   (format "http://www.reddit.com/r/all/new.json?count=100&before=%s" s))
 
+(defn try-download-times
+  ([x] (try-download-times x 10))
+
+  ([x n]
+     (if (zero? n)
+       nil
+       (try (client/get x)
+            (catch Exception e (do (Thread/sleep 1000)
+                                   (recur x (dec n))))))))
+
 (defn fix-and-download
   [low hi collected-data]
   (pprint [:low low :hi hi])
@@ -75,7 +85,7 @@
   (let [url (str (create-url dec31 jan1)
                  "&limit=1")]
     (-> url
-        client/get
+        try-download-times
         :body
         json/parse-string
         walk/keywordize-keys
@@ -89,12 +99,12 @@
   [starting-pt jan2 writer]
   (let [url (create-r-all-url starting-pt)
         data (-> url
-                 client/get
+                 try-download-times
                  :body
                  json/parse-string
                  walk/keywordize-keys
-                 :data
-                 :children)
+                 :data)
+        :children
         next-starting-pt (-> data
                              last
                              :data
@@ -115,7 +125,7 @@
 
 (defn build-dataset
   []
-  (doseq [[dec31 jan1 jan2] timestamps]
+  (doseq [[dec31 jan1 jan2] (drop 4 timestamps)]
     (Thread/sleep 2000)
     (let [starting-pt (get-starting-point dec31 jan1)
           corpus-name (str (.indexOf timestamps [dec31 jan1 jan2]) ".corpus")
