@@ -10,4 +10,28 @@
                 PushbackReader.)]
     (take-while
      identity
-     (repeatedly #(read rdr)))))
+     (repeatedly #(try (read rdr)
+                       (catch Exception e nil))))))
+
+(defn measure-subreddits
+  [corpus-file]
+  (reduce
+   (fn [acc x]
+     (merge-with +' acc {(-> x
+                             :data
+                             :subreddit)
+                         1}))
+   {}
+   (read-corpus-file corpus-file)))
+
+(defn measure-domains
+  [corpus-file]
+  (reduce
+   (fn [acc x]
+     (merge-with +' acc {(-> x
+                             :data
+                             :domain)
+                         1}))
+   {}
+   (read-corpus-file corpus-file)))
+

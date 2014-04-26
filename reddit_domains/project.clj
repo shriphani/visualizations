@@ -6,4 +6,5 @@
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [clj-time "0.6.0"]
                  [clj-http "0.9.1"]
-                 [cheshire "5.3.1"]])
+                 [cheshire "5.3.1"]
+                 [incanter "1.5.4"]])
