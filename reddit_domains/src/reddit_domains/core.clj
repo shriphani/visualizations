@@ -109,16 +109,16 @@
                              last
                              :data
                              :name)
-        ts (try (-> data
-                    last
+        ts (last
+            (filter
+             identity
+             (map
+              (fn [d]
+                (-> d
                     :data
                     :created
-                    int)
-                (catch NullPointerException e (-> data
-                                                  (nth (dec (count data)))
-                                                  :data
-                                                  :created
-                                                  int)))]
+                    int))
+              data)))]
     (do (binding [*out* writer]
           (doall (map pprint data))
           (flush)))
