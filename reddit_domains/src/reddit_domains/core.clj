@@ -109,11 +109,16 @@
                              last
                              :data
                              :name)
-        ts (-> data
-               last
-               :data
-               :created
-               int)]
+        ts (try (-> data
+                    last
+                    :data
+                    :created
+                    int)
+                (catch NullPointerException e (-> data
+                                                  (nth (dec (count data)))
+                                                  :data
+                                                  :created
+                                                  int)))]
     (do (binding [*out* writer]
           (doall (map pprint data))
           (flush)))
@@ -125,7 +130,7 @@
 
 (defn build-dataset
   []
-  (doseq [[dec31 jan1 jan2] (drop 4 timestamps)]
+  (doseq [[dec31 jan1 jan2] (drop 7 timestamps)]
     (Thread/sleep 2000)
     (let [starting-pt (get-starting-point dec31 jan1)
           corpus-name (str (.indexOf timestamps [dec31 jan1 jan2]) ".corpus")
