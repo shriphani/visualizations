@@ -5,4 +5,5 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[incanter "1.5.4"]
                  [org.clojure/clojure "1.5.1"]
-                 [clj-http "0.9.1"]])
+                 [clj-http "0.9.1"]
+                 [clj-time "0.7.0"]])

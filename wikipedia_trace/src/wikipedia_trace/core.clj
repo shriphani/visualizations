@@ -2,7 +2,8 @@
   "Plotting the wikipedia trace for a single day"
   (:require [clojure.java.io :as io]
             [clojure.string :as string]
-            [clj-http.client :as client]))
+            [clj-http.client :as client]
+            [clj-time.coerce :as coerce-time]))
 
 (defn wikipedia-trace-lines
   [filename]
@@ -69,3 +70,29 @@
            (when (and (<= start-ts e)
                       (>= end-ts e))
              (println (str e "," n)))))))))
+
+(defn reduce-data
+  [data-file]
+  (with-open [rdr  (io/reader data-file)
+              wrtr (io/writer "hourly_data.csv")]
+    (let [lines (line-seq rdr)
+          data  
+          (sort-by
+           first
+           (reduce
+            (fn [acc l]
+              (let [s (string/split l #",")
+                    epoch (Long/parseLong
+                           (first s))
+                    n (Long/parseLong
+                       (second s))
+
+                    nearest-hour (* (quot epoch 3600)
+                                    3600)]
+                (merge-with +' acc {nearest-hour n})))
+            {}
+            lines))]
+      (binding [*out* wrtr]
+        (println "hour,frequency")
+        (doseq [[h n] data]
+          (println (str (coerce-time/to-string (coerce-time/from-long (* 1000 h))) "," n)))))))
