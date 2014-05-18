@@ -1,7 +1,8 @@
 (ns wikipedia-trace.core
   "Plotting the wikipedia trace for a single day"
   (:require [clojure.java.io :as io]
-            [clojure.string :as string]))
+            [clojure.string :as string]
+            [clj-http.client :as client]))
 
 (defn wikipedia-trace-lines
   [filename]
@@ -12,14 +13,23 @@
 (defn process-wikipedia-line
   [a-line]
   (let [[id-s epoch-s url-s]
-        (string/split a-line "\s+")]
-    (let [num-id (int id-s)
-          epoch  (Double/parseDouble epoch-s)]
+        (string/split a-line #"\s+")]
+    (let [num-id (Integer/parseInt id-s)
+          epoch  (quot
+                  (Long/parseLong
+                   (string/replace epoch-s #"\." ""))
+                  1000)]
       [num-id epoch url-s])))
 
 (defn process-trace
   [filename]
-  (let [lines (wikipedia-trace-lines filename)]
+  (let [lines (wikipedia-trace-lines filename)
+        orig-dic (into
+                  {}
+                  (map
+                   (fn [i]
+                     [i 0])
+                   (range 1190073600 1190160000)))]
     (sort-by
      first
      (reduce
@@ -29,10 +39,17 @@
       (map process-wikipedia-line lines)))))
 
 (defn write-to-file
-  [filename]
-  (let [hits-per-ms (process-trace filename)]
-    (map
-     (fn [[epoch n]]
-       (println
-        (format "%f,%d" epoch n)))
-     hits-per-ms)))
+  [filename out-file]
+  (with-open [wrtr (io/writer out-file)]
+    (binding [*out* wrtr]
+     (let [hits-per-ms (process-trace filename)]
+       (doseq [[epoch n] hits-per-ms]
+         (println
+          (format "%d,%d" epoch n)))))))
+
+(defn download-files
+  []
+  (let [filenames (wikipedia-trace-lines "filename.txt")]
+    (doseq [f filenames]
+      (let [bd (:body (client/get (str "http://www.wikibench.eu/wiki/2007-09/" f)))]
+        (spit f bd)))))
