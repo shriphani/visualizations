@@ -23,13 +23,7 @@
 
 (defn process-trace
   [filename]
-  (let [lines (wikipedia-trace-lines filename)
-        orig-dic (into
-                  {}
-                  (map
-                   (fn [i]
-                     [i 0])
-                   (range 1190073600 1190160000)))]
+  (let [lines (wikipedia-trace-lines filename)]
     (sort-by
      first
      (reduce
@@ -53,3 +47,25 @@
     (doseq [f filenames]
       (let [bd (:body (client/get (str "http://www.wikibench.eu/wiki/2007-09/" f)))]
         (spit f bd)))))
+
+(def start-ts 1190160000)
+(def end-ts 1190246400)
+
+(defn trim-data
+  [out-file]
+  (let [files (map
+               #(.getName %)
+               (filter
+                #(re-find
+                  #"wiki"
+                  (.getName %))
+                (file-seq
+                 (java.io.File. "."))))]
+    (with-open [wrtr (io/writer out-file)]
+      (binding [*out* wrtr]
+       (doseq [f files]
+         (let [lines (wikipedia-trace-lines f)]
+           (doseq [[i e u] (map process-wikipedia-line lines)]
+             (when (and (<= start-ts e)
+                        (>= end-ts e))
+               (println (str e "," 1))))))))))
