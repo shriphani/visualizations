@@ -57,15 +57,15 @@
                #(.getName %)
                (filter
                 #(re-find
-                  #"wiki"
+                  #"wiki\."
                   (.getName %))
                 (file-seq
                  (java.io.File. "."))))]
+    
     (with-open [wrtr (io/writer out-file)]
       (binding [*out* wrtr]
        (doseq [f files]
-         (let [lines (wikipedia-trace-lines f)]
-           (doseq [[i e u] (map process-wikipedia-line lines)]
-             (when (and (<= start-ts e)
-                        (>= end-ts e))
-               (println (str e "," 1))))))))))
+         (doseq [[e n] (process-trace f)]
+           (when (and (<= start-ts e)
+                      (>= end-ts e))
+             (println (str e "," n)))))))))
