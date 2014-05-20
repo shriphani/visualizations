@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+body {
+  font: 10px sans-serif;
+}
+
+.arc path {
+  stroke: #fff;
+}
+
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script>
+
+var width = 960,
+    height = 500,
+    radius = Math.min(width, height) / 2;
+
+var color = d3.scale.ordinal()
+    .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
+
+var arc = d3.svg.arc()
+    .outerRadius(radius - 10)
+    .innerRadius(radius - 75);
+
+var pie = d3.layout.pie()
+    .sort(null)
+    .value(function(d) { return d.Items; });
+
+var svg = d3.select("body").append("svg")
+    .attr("class", "piechart")
+    .attr("width", width)
+    .attr("height", height)
+    .append("g")
+    .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+var total = 0;
+var per_industry = {};
+var per_industry_freq = [];
+
+d3.csv("forbes_brand_value.csv", function(error, data) {
+
+  data.forEach(function(d) {
+    total += 1;
+    if(d.Industry in per_industry) {
+      per_industry[d.Industry].push(d.Brand);
+    } else {
+      per_industry[d.Industry] = [d.Brand];
+    }
+  });
+
+  console.log(total);
+  //console.log(per_industry);
+
+  for (var d in per_industry) {
+    per_industry_freq.push({Industry: d, Items: per_industry[d].length});
+  }
+
+  console.log(per_industry_freq.length);
+
+  var g = svg.selectAll(".arc")
+      .data(pie(per_industry_freq))
+      .enter().append("g")
+      .attr("class", "arc");
+
+  this.centerGroup = d3.selectAll("svg").append("g")
+    // var rect = this.centerGroup.append('circle')
+    // .attr("cx", (150/2))
+    // .attr('cy', (150/2))
+    // .attr("r", 100)
+    // .style("fill", '#e4e5e5')
+    // .attr("opacity", '.5')
+    this.centerGroup.attr("transform", "translate(" + (-(150/2)) + "," + (-(150/2)) + ")")
+    this.DataValue = this.centerGroup.append("text")
+    .text("")
+    .attr("transform", "translate(" + ((width/2) + (width/14)) + "," + ((height/2)) + ")")
+    .style("text-anchor", "middle")
+    .style('font-size', 32);
+    this.DataName = this.centerGroup.append("text")
+    .text("")
+    .attr("transform", "translate(" + ((width/2)) + "," + ((height/2) + (height/4)) + ")")
+    .style("text-anchor", "middle")
+    .style('font-size', 18);
+
+  g.append("path")
+    .attr("d", arc)
+    .style("fill", function(d) { return color(d.data.Items); })
+    .on('mouseover', function(d) { DataValue.text(d.data.Industry); })
+    .on('mouseout', function(d) { DataValue.text(""); });
+
+  /*g.append("text")
+    .attr("transform", function(d) { return "translate(" + arc.centroid(d) + ")"; })
+    .attr("dy", ".35em")
+    .style("text-anchor", "middle")
+    .text(function(d) { return (d.data.Items / total) * 100; });*/
+
+
+});
+
+</script>
