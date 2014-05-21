@@ -3,7 +3,7 @@
 <style>
 
 body {
-  font: 10px sans-serif;
+  font: 12px sans-serif;
 }
 
 .arc path {
@@ -15,8 +15,8 @@ body {
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
-var width = 960,
-    height = 500,
+var width = 700,
+    height = 700,
     radius = Math.min(width, height) / 2;
 
 var color = d3.scale.ordinal()
@@ -24,7 +24,7 @@ var color = d3.scale.ordinal()
 
 var arc = d3.svg.arc()
     .outerRadius(radius - 10)
-    .innerRadius(radius - 75);
+    .innerRadius(radius - 95);
 
 var pie = d3.layout.pie()
     .sort(null)
@@ -76,26 +76,37 @@ d3.csv("forbes_brand_value.csv", function(error, data) {
     this.centerGroup.attr("transform", "translate(" + (-(150/2)) + "," + (-(150/2)) + ")")
     this.DataValue = this.centerGroup.append("text")
     .text("")
-    .attr("transform", "translate(" + ((width/2) + (width/14)) + "," + ((height/2)) + ")")
+    .attr("transform", "translate(" + ((width/2) + (width/10) ) + "," + ((height/2) - 50) + ")")
     .style("text-anchor", "middle")
     .style('font-size', 32);
-    this.DataName = this.centerGroup.append("text")
-    .text("")
-    .attr("transform", "translate(" + ((width/2)) + "," + ((height/2) + (height/4)) + ")")
-    .style("text-anchor", "middle")
-    .style('font-size', 18);
-
+    this.DataName = this.centerGroup.append("g")
+    //.text("")
+    
   g.append("path")
     .attr("d", arc)
     .style("fill", function(d) { return color(d.data.Items); })
-    .on('mouseover', function(d) { DataValue.text(d.data.Industry); })
-    .on('mouseout', function(d) { DataValue.text(""); });
+    .on('mouseover', function(d) { 
+      DataValue.text(d.data.Industry);
+      cos = "";
+      for (var company in per_industry[d.data.Industry]) {
+        DataName.append("text")
+          .text(per_industry[d.data.Industry][company])
+          .attr("transform", "translate(" + ((width/2) + (width/10)) + "," + ((height/2) + (company * 18)) + ")")
+          .style("text-anchor", "middle")
+          .style('font-size', 20);
+      }
+      //DataName.innerHTML = cos;
+    })
+    .on('mouseout', function(d) { 
+      DataValue.text("");
+      DataName.selectAll("text").remove();
+    });
 
-  /*g.append("text")
+  g.append("text")
     .attr("transform", function(d) { return "translate(" + arc.centroid(d) + ")"; })
     .attr("dy", ".35em")
     .style("text-anchor", "middle")
-    .text(function(d) { return (d.data.Items / total) * 100; });*/
+    .text(function(d) { return d.data.Items; });
 
 
 });
