@@ -3,7 +3,7 @@
 <style>
 
 body {
-  font: 18px sans-serif;
+  font: 20px sans-serif;;
 }
 
 .arc path {
@@ -41,6 +41,15 @@ var total = 0;
 var per_industry = {};
 var per_industry_freq = [];
 
+var arcOver = d3.svg.arc()
+        .innerRadius(radius - 95)
+        .outerRadius(radius);
+
+var arc = d3.svg.arc()
+        .innerRadius(radius - 95)
+        .outerRadius(radius - 10);
+
+
 d3.csv("forbes_brand_value.csv", function(error, data) {
 
   data.forEach(function(d) {
@@ -64,7 +73,14 @@ d3.csv("forbes_brand_value.csv", function(error, data) {
   var g = svg.selectAll(".arc")
       .data(pie(per_industry_freq))
       .enter().append("g")
-      .attr("class", "arc");
+      .attr("class", "arc")
+      .on("mouseover", function (d) {
+        d3.selectAll("path").transition().duration(250).attr("d", arc);
+        d3.select(this).selectAll("path").transition().duration(250).attr("d", arcOver);
+      })
+      .on("mouseout", function (d) {
+        //d3.select(this).selectAll("path").transition().duration(250).attr("d", arc);
+      });
 
   this.centerGroup = d3.selectAll("svg").append("g")
     // var rect = this.centerGroup.append('circle')
@@ -92,15 +108,10 @@ d3.csv("forbes_brand_value.csv", function(error, data) {
       for (var company in per_industry[d.data.Industry]) {
         DataName.append("text")
           .text(per_industry[d.data.Industry][company])
-          .attr("transform", "translate(" + ((width/2) + (width/10)) + "," + ((height/2) + (company * 18)) + ")")
+          .attr("transform", "translate(" + ((width/2) + (width/10)) + "," + ((height/2) + (company * 18 - 25) + 10) + ")")
           .style("text-anchor", "middle")
           .style('font-size', 20);
       }
-      //DataName.innerHTML = cos;
-    })
-    .on('mouseout', function(d) { 
-      //DataValue.text("");
-      //DataName.selectAll("text").remove();
     });
 
   g.append("text")
@@ -114,8 +125,5 @@ d3.csv("forbes_brand_value.csv", function(error, data) {
         return d.data.Items; 
       }
     });
-
-
 });
-
 </script>
