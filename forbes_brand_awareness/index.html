@@ -3,7 +3,7 @@
 <style>
 
 body {
-  font: 12px sans-serif;
+  font: 18px sans-serif;
 }
 
 .arc path {
@@ -12,7 +12,7 @@ body {
 
 </style>
 <body>
-<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="../d3.min.js"></script>
 <script>
 
 var width = 700,
@@ -87,6 +87,7 @@ d3.csv("forbes_brand_value.csv", function(error, data) {
     .style("fill", function(d) { return color(d.data.Items); })
     .on('mouseover', function(d) { 
       DataValue.text(d.data.Industry);
+      DataName.selectAll("text").remove();
       cos = "";
       for (var company in per_industry[d.data.Industry]) {
         DataName.append("text")
@@ -98,15 +99,21 @@ d3.csv("forbes_brand_value.csv", function(error, data) {
       //DataName.innerHTML = cos;
     })
     .on('mouseout', function(d) { 
-      DataValue.text("");
-      DataName.selectAll("text").remove();
+      //DataValue.text("");
+      //DataName.selectAll("text").remove();
     });
 
   g.append("text")
     .attr("transform", function(d) { return "translate(" + arc.centroid(d) + ")"; })
     .attr("dy", ".35em")
     .style("text-anchor", "middle")
-    .text(function(d) { return d.data.Items; });
+    .text(function(d) { 
+      if (d.data.Items > 5) {
+        return d.data.Industry + "," + d.data.Items; 
+      } else {
+        return d.data.Items; 
+      }
+    });
 
 
 });
